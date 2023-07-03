@@ -1,7 +1,7 @@
 import os
 
 # os.mkdir("Egzersiz")
-fileName = "ilk.ipynb"
+fileName = "01_01_Pandas.ipynb"
 liste = ["Cevaplar","Arzu","Ersel","Ozkan","Atıf","Omer","Yusuf",\
     "Beytullah","Mehmet","İhsan","OmerReal","Beste","Şafak","Kubra","Hatice","YunusEmre","Berkay","Muhammed","Harun"]
 for item in liste:
