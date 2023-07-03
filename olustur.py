@@ -4,7 +4,7 @@ import os
 fileName = "ilk.ipynb"
 liste = ["Cevaplar"]
 for item in liste:
-    folderPath = ["Egzersiz",item]
+    folderPath = os.path.join(["Egzersiz",item])
     if  folderPath:
         os.mkdir(folderPath)
     open(os.path.join(folderPath,fileName),"a+")
