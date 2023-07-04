@@ -1,0 +1,1856 @@
+,vol_requests,event_time,hits,is_priority,category_id,amsl,amsl_unit,org_title,org_content_id,addresses_count,locality,region,postalcode,primary_loc,display_url,recurrence_type,hours,created_date,last_modified_date,status,Latitude,Longitude,Census Tract,BIN,BBL,NTA
+0,50,0,737,,,,,Center For NYC Neighborhoods,4426,1,,NY,,,/opportunities/4996,onetime,0,January 13 2011,June 23 2011,approved,,,,,,
+1,2,0,22,,1.0,,,Bpeace,37026,1,"5 22nd St
+New York, NY 10010
+(40.74053152272978, -73.98923530081726)",NY,10010.0,,/opportunities/5008,onetime,0,January 14 2011,January 25 2011,approved,,,,,,
+2,20,0,62,,1.0,,,Street Project,3001,1,,NY,10026.0,,/opportunities/5016,onetime,0,January 19 2011,January 21 2011,approved,,,,,,
+3,500,0,14,,1.0,,,Oxfam America,2170,1,,NY,2114.0,,/opportunities/5022,ongoing,0,January 21 2011,January 25 2011,approved,,,,,,
+4,15,0,31,,4.0,,,Office of Recycling Outreach and Education,36773,1,,NY,10455.0,,/opportunities/5055,onetime,0,January 28 2011,February 01 2011,approved,,,,,,
+5,15,0,135,,4.0,,,Office of Recycling Outreach and Education,36773,1,,NY,11372.0,,/opportunities/5056,onetime,0,January 28 2011,January 28 2011,approved,,,,,,
+6,2,0,156,,1.0,,,The Jewish Museum,37348,1,"1109 Fifth Avenue
+New York, NY 10128
+(40.78553359707598, -73.95746225352207)",NY,10128.0,,/opportunities/5053,ongoing,0,January 27 2011,January 28 2011,approved,,,,,,
+7,20,0,4407,y,2.0,,,"Brooklyn Bar Association Volunteer Lawyers Project, Inc.",3784,1,,NY,11201.0,,/opportunities/5085,ongoing,0,February 07 2011,August 11 2011,approved,,,,,,
+8,100,0,325,,,,,"Cents Ability, Inc.",37154,1,,NY,10020.0,,/opportunities/5091,ongoing,0,February 09 2011,February 09 2011,approved,,,,,,
+9,1,0,928,,5.0,,,Community Service Society of New York,37737,1,,NY,10010.0,,/opportunities/5093,ongoing,0,February 09 2011,February 11 2011,approved,,,,,,
+10,8,0,491,,1.0,,,New York City Department of Parks & Recreation,3706,1,,NY,11415.0,,/opportunities/5108,ongoing,0,February 14 2011,February 14 2011,approved,,,,,,
+11,15,0,332,,3.0,,,WorldofMoney.org,3155,1,,NY,10036.0,,/opportunities/5118,ongoing,0,February 18 2011,February 22 2011,approved,,,,,,
+12,4,0,276,,1.0,,,WorldofMoney.org,3155,1,,NY,10036.0,,/opportunities/5119,ongoing,0,February 18 2011,February 22 2011,approved,,,,,,
+13,25,0,465,,3.0,,,JBFCS,1891,1,,NY,10004.0,,/opportunities/5121,ongoing,0,February 18 2011,March 30 2011,approved,,,,,,
+14,1,0,119,,2.0,,,Institute For Human Identity,3350,1,,NY,10001.0,,/opportunities/5137,ongoing,0,February 24 2011,July 13 2011,approved,,,,,,
+15,1,0,236,,1.0,,,Institute For Human Identity,3350,1,,NY,10001.0,,/opportunities/5138,ongoing,0,February 24 2011,February 24 2011,approved,,,,,,
+16,25,0,3334,y,2.0,,,TimeBanksNYC,36902,1,,NY,10003.0,,/opportunities/5150,onetime,0,March 01 2011,May 16 2011,approved,,,,,,
+17,250,0,266,,1.0,,,Where To Turn,2879,1,,NY,10314.0,,/opportunities/5156,ongoing,0,March 04 2011,March 04 2011,approved,,,,,,
+18,10,0,834,,2.0,,,"Services Now for Adult Persons, Inc.",37227,1,,NY,11427.0,,/opportunities/5174,ongoing,0,March 09 2011,March 09 2011,approved,,,,,,
+19,4,0,653,,1.0,,,Rubin Museum Of Art,3104,1,"150 17th Street
+New York, NY 10011
+(40.74018978035866, -73.99762597535062)",NY,10011.0,,/opportunities/5175,ongoing,0,March 09 2011,March 09 2011,approved,,,,,,
+20,30,0,32,,4.0,,,MillionTreesNYC,1671,1,,NY,11355.0,,/opportunities/5179,onetime,0,March 10 2011,March 11 2011,approved,,,,,,
+21,30,0,165,,4.0,,,MillionTreesNYC,1671,1,,NY,11103.0,,/opportunities/5180,onetime,0,March 10 2011,March 11 2011,approved,,,,,,
+22,2,0,583,,5.0,,,Metropolitan Council on Jewish Poverty,974,1,"80 Maiden Lane
+New York, NY 10038
+(40.70722063476455, -74.00745556513084)",NY,10038.0,,/opportunities/5177,ongoing,0,March 10 2011,March 11 2011,approved,,,,,,
+23,20,0,1103,,5.0,,,Queens County Farm Museum,4459,1,"73 50 Little Neck Parkway
+Floral Park, NY 11004
+(40.74323783435864, -73.71201500019208)",NY,11004.0,,/opportunities/5198,ongoing,0,March 15 2011,March 15 2011,approved,,,,,,
+24,1,0,239,,1.0,,,"Dorchester Senior Citizens Center, Inc.",3449,1,,NY,11226.0,,/opportunities/5210,ongoing,0,March 17 2011,March 18 2011,approved,,,,,,
+25,4,0,411,,,,,"Dorchester Senior Citizens Center, Inc.",3449,1,,NY,11226.0,,/opportunities/5211,ongoing,0,March 17 2011,March 18 2011,approved,,,,,,
+26,2,0,229,,,,,"Dorchester Senior Citizens Center, Inc.",3449,1,,NY,11226.0,,/opportunities/5212,ongoing,0,March 17 2011,March 18 2011,approved,,,,,,
+27,70,0,274,,5.0,,,Bellevue Hospital,264,1,,NY,10016.0,,/opportunities/5238,onetime,0,March 30 2011,March 31 2011,approved,,,,,,
+28,5,0,176,,,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5292,ongoing,0,April 14 2011,April 18 2011,approved,,,,,,
+29,20,0,59,,4.0,,,Office of Recycling Outreach and Education,36773,1,,NY,11231.0,,/opportunities/5319,onetime,0,April 22 2011,May 02 2011,approved,,,,,,
+30,50,0,1054,y,1.0,,,Cool Culture,1028,1,,NY,11368.0,,/opportunities/5329,onetime,0,April 27 2011,April 29 2011,approved,,,,,,
+31,5,0,873,,1.0,,,Brooklyn Community Services,39558,1,"285 Schermerhorn Street
+Brooklyn, NY 11217
+(40.687790343385544, -73.98292053949278)",NY,11217.0,,/opportunities/5326,ongoing,0,April 27 2011,April 29 2011,approved,,,,,,
+32,50,0,176,,1.0,,,Hope & Heroes Children's Cancer Fund,39591,1,,NY,10025.0,,/opportunities/5332,onetime,0,April 27 2011,April 29 2011,approved,,,,,,
+33,500,0,1522,y,5.0,,,New York City Department of Health and Mental Hygiene,39269,1,,NY,11101.0,,/opportunities/5339,ongoing,0,May 04 2011,June 30 2011,approved,,,,,,
+34,15,0,61,,1.0,,,"Groundwork, Inc.",2215,1,,NY,11207.0,,/opportunities/5350,onetime,0,May 10 2011,May 12 2011,approved,,,,,,
+35,20,0,215,,4.0,,,Office of Recycling Outreach and Education,36773,1,,NY,10007.0,,/opportunities/5361,onetime,0,May 13 2011,May 16 2011,approved,,,,,,
+36,25,0,582,,2.0,,,Samaritans of New York,376,1,,NY,10003.0,,/opportunities/5363,ongoing,0,May 16 2011,September 26 2011,approved,,,,,,
+37,10,0,112,,1.0,,,Heart Gallery NYC,1193,1,,NY,11217.0,,/opportunities/5384,ongoing,0,May 24 2011,May 25 2011,approved,,,,,,
+38,5,0,38,,2.0,,,Metropolitan Council on Jewish Poverty,974,1,,NY,11219.0,,/opportunities/5388,ongoing,0,May 27 2011,June 02 2011,approved,,,,,,
+39,20,0,566,,2.0,,,Rebuilding Together NYC,1486,1,,NY,10163.0,,/opportunities/5397,ongoing,0,June 01 2011,June 02 2011,approved,,,,,,
+40,20,0,355,,4.0,,,New York City Department of Parks & Recreation,3706,1,,NY,10065.0,,/opportunities/5400,onetime,0,June 01 2011,June 02 2011,approved,,,,,,
+41,10,0,101,,1.0,,,Office of Recycling Outreach and Education,36773,1,,NY,11693.0,,/opportunities/5459,onetime,0,June 07 2011,June 07 2011,approved,,,,,,
+42,500,0,4662,y,1.0,,,NYC Service,3747,1,,NY,10007.0,,/opportunities/5462,ongoing,0,June 09 2011,June 15 2011,approved,,,,,,
+43,15,0,100,,3.0,,,MASA-MexEd Inc.,41185,1,,NY,10454.0,,/opportunities/5466,ongoing,0,June 11 2011,September 21 2011,approved,,,,,,
+44,10,0,54,y,2.0,,,Metropolitan Council on Jewish Poverty,974,1,,NY,10016.0,,/opportunities/5475,onetime,0,June 16 2011,June 17 2011,approved,,,,,,
+45,20,0,526,,4.0,,,Office of Recycling Outreach and Education,36773,1,,NY,10007.0,,/opportunities/5478,onetime,0,June 21 2011,September 23 2011,approved,,,,,,
+46,3,0,439,,3.0,,,SMART Recovery NYC ,583,1,,NY,10021.0,,/opportunities/5484,ongoing,0,June 22 2011,August 19 2011,approved,,,,,,
+47,300,0,1446,y,2.0,,,Share Our Strength ,42491,1,,NY,10013.0,,/opportunities/5496,onetime,0,June 30 2011,July 13 2011,approved,,,,,,
+48,500,0,355,y,6.0,,,NYC Service,3747,1,,NY,10035.0,,/opportunities/5502,onetime,0,July 01 2011,July 01 2011,approved,,,,,,
+49,25,0,17,,4.0,,,New York City Department of Sanitation,41239,1,,NY,,,/opportunities/5511,ongoing,0,July 08 2011,July 14 2011,approved,,,,,,
+50,35,0,73,,1.0,,,New York Junior Tennis League,48727,1,,NY,10460.0,,/opportunities/5559,ongoing,0,July 26 2011,July 28 2011,approved,,,,,,
+51,400,0,886,,1.0,,,The JCC In Manhattan,3831,1,,NY,10023.0,,/opportunities/5565,onetime,0,July 29 2011,August 23 2011,approved,,,,,,
+52,20,0,155,,,,,American Diabetes Association,39913,1,"333 Seventh Avenue
+New York, NY 10001
+(40.747492275236596, -73.99319231774615)",NY,10001.0,,/opportunities/5358,onetime,0,May 12 2011,June 01 2011,approved,,,,,,
+53,2,0,183,,1.0,,,Girl Scouts NYC,44253,1,,NY,10456.0,,/opportunities/5571,ongoing,0,August 01 2011,August 22 2011,approved,,,,,,
+54,500,0,523,y,2.0,,,DOROT,397,1,"171 85th Street
+New York, NY 10024
+(40.786855600459035, -73.97516990427897)",NY,10024.0,,/opportunities/5562,onetime,0,July 28 2011,September 02 2011,approved,,,,,,
+55,1,0,79,,1.0,,,Jewish Association for Services for the Aged (JASA),728,1,"132 31st Street
+New York, NY 10001
+(40.74849052268911, -73.99056629742063)",NY,10001.0,,/opportunities/5575,ongoing,0,August 01 2011,August 01 2011,approved,,,,,,
+56,30,0,438,,1.0,,,New York City Department of Parks & Recreation,3706,1,,NY,10065.0,,/opportunities/5595,onetime,0,August 04 2011,August 04 2011,approved,,,,,,
+57,90,0,172,,3.0,,,Tomorrow's Business Leaders ,49915,1,,NY,10017.0,,/opportunities/5603,ongoing,0,August 08 2011,August 15 2011,approved,,,,,,
+58,20,0,101,,,,,Arthritis Foundation,49908,1,,NY,10168.0,,/opportunities/5609,ongoing,0,August 09 2011,August 09 2011,approved,,,,,,
+59,30,0,74,,1.0,,,Street Project,3001,1,,NY,10040.0,,/opportunities/5627,onetime,0,August 15 2011,August 15 2011,approved,,,,,,
+60,3,0,51,,1.0,,,Jewish Association for Services for the Aged (JASA),728,1,"132 31st Street
+New York, NY 10001
+(40.74849052268911, -73.99056629742063)",NY,10001.0,,/opportunities/5630,ongoing,0,August 15 2011,August 15 2011,approved,,,,,,
+61,50,0,127,,3.0,,,New York College Goal Sunday,4013,1,,NY,10461.0,,/opportunities/5643,onetime,0,August 16 2011,August 21 2011,approved,,,,,,
+62,5,0,15,,5.0,,,Police Athletic League Of New York,3067,1,,NY,112112.0,,/opportunities/5651,ongoing,0,August 17 2011,August 18 2011,approved,,,,,,
+63,5,0,158,,3.0,,,New York College Goal Sunday,4013,2,,NY,10461.0,,/opportunities/5653,ongoing,0,August 18 2011,August 26 2011,approved,,,,,,
+64,100,0,362,,3.0,,,GO Project,2234,2,,NY,10003.0,,/opportunities/5658,ongoing,0,August 19 2011,September 08 2011,approved,,,,,,
+65,100,0,449,y,4.0,,,"Artichoke Dance Company, Inc.",32874,1,,NY,11217.0,,/opportunities/5659,onetime,0,August 19 2011,August 22 2011,approved,,,,,,
+66,100,0,1250,,3.0,,,Reading Partners,39027,7,,NY,11233.0,,/opportunities/5667,ongoing,0,August 22 2011,September 16 2011,approved,,,,,,
+67,2,0,278,,3.0,,,The Neighborhood Work Play Kids Theater,50876,1,,NY,11205.0,,/opportunities/5676,ongoing,0,August 24 2011,August 25 2011,approved,,,,,,
+68,1,0,111,,1.0,,,The Neighborhood Work Play Kids Theater,50876,1,,NY,11205.0,,/opportunities/5680,ongoing,0,August 27 2011,August 31 2011,approved,,,,,,
+69,2,0,121,,1.0,,,The Neighborhood Work Play Kids Theater,50876,1,,NY,11205.0,,/opportunities/5685,ongoing,0,August 29 2011,August 31 2011,approved,,,,,,
+70,30,0,499,y,6.0,,,Metropolitan Council on Jewish Poverty,974,3,,NY,10021.0,,/opportunities/5692,onetime,0,August 30 2011,September 06 2011,approved,,,,,,
+71,20,0,84,,1.0,,,Summer on the Hudson,51667,1,,NY,10023.0,,/opportunities/5716,onetime,0,September 02 2011,September 07 2011,approved,,,,,,
+72,15,0,214,,5.0,,,New York City Department of Parks & Recreation,3706,1,,NY,10029.0,,/opportunities/5722,ongoing,0,September 07 2011,September 08 2011,approved,,,,,,
+73,2,0,20,,5.0,,,New York City Department of Parks & Recreation,3706,1,,NY,10029.0,,/opportunities/5745,ongoing,0,September 14 2011,September 16 2011,approved,,,,,,
+74,2,0,37,,5.0,,,New York City Department of Parks & Recreation,3706,1,,NY,10029.0,,/opportunities/5746,ongoing,0,September 14 2011,September 15 2011,approved,,,,,,
+75,10,0,127,,1.0,,,Publicolor,155,1,,NY,10001.0,,/opportunities/5750,ongoing,0,September 15 2011,September 16 2011,approved,,,,,,
+76,50,0,129,,3.0,,,Jumpstart for Young Children,3756,6,,NY,10002.0,,/opportunities/5755,ongoing,0,September 16 2011,September 19 2011,approved,,,,,,
+77,20,0,616,,1.0,,,New York City Department of Parks & Recreation,3706,1,"8030 Park Lane
+Kew Gardens, NY 11415
+(40.711186177816984, -73.83543395214066)",NY,11415.0,,/opportunities/5192,onetime,0,March 11 2011,March 11 2011,approved,,,,,,
+78,2,0,64,y,5.0,,,New York City Department of Parks & Recreation,3706,1,,NY,10029.0,,/opportunities/5756,ongoing,0,September 16 2011,September 19 2011,approved,,,,,,
+79,1,0,10,,5.0,,,Jewish Association for Services for the Aged (JASA),728,1,,NY,11239.0,,/opportunities/5762,ongoing,0,September 19 2011,September 19 2011,approved,,,,,,
+80,20,0,29,,3.0,,,Mosaic Preparatory Academy,52858,1,,NY,10029.0,,/opportunities/5780,ongoing,0,September 24 2011,September 26 2011,approved,,,,,,
+81,20,0,38,,3.0,,,Mosaic Preparatory Academy,52858,1,,NY,10029.0,,/opportunities/5781,ongoing,0,September 24 2011,September 26 2011,approved,,,,,,
+82,100,0,494,,5.0,,,National Multiple Sclerosis Society NYC Chapter,545,1,"30 Rockefeller Plaza
+New York, NY 10112
+(40.75845596029155, -73.97894749534568)",NY,10112.0,,/opportunities/4965,onetime,0,January 05 2011,January 06 2011,approved,,,,,,
+83,1,0,471,,1.0,,,National Institute for the Psychotherapies,36722,1,"250 57th Street
+New York, NY 10107
+(40.766393521786576, -73.98218601253214)",NY,10107.0,,/opportunities/4962,ongoing,0,January 05 2011,January 06 2011,approved,,,,,,
+84,5,0,304,,3.0,,,Blue Engine,36741,1,"150 Court
+Brooklyn, NY 11201
+(40.688807894259774, -73.99283183663935)",NY,11201.0,,/opportunities/4961,ongoing,0,January 04 2011,January 06 2011,approved,,,,,,
+85,25,0,35,,1.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd St
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/4960,ongoing,0,January 04 2011,January 19 2011,approved,,,,,,
+86,12,0,102,,,,,American Red Cross in Greater New York,4442,1,"520 49th Street
+Manhattan, NY 10019
+(40.76448134234654, -73.99331603772264)",NY,10019.0,,/opportunities/4953,ongoing,0,January 03 2011,February 14 2011,approved,,,,,,
+87,1,0,220,,1.0,,,National Institute for the Psychotherapies,36722,1,"250 57th Street
+New York, NY 10107
+(40.766393521786576, -73.98218601253214)",NY,10107.0,,/opportunities/4959,ongoing,0,January 04 2011,March 23 2011,approved,,,,,,
+88,1,0,181,,2.0,,,DOROT,397,1,"171 85th Street
+New York, NY 10024
+(40.786855600459035, -73.97516990427897)",NY,10024.0,,/opportunities/4952,onetime,0,January 03 2011,January 06 2011,approved,,,,,,
+89,3,0,203,,5.0,,,Bellevue Hospital,264,1,"27th Street
+New York, NY 10016
+(40.74271237865085, -73.98454533643442)",NY,10016.0,,/opportunities/5611,ongoing,0,August 10 2011,August 10 2011,approved,,,,,,
+90,20,0,433,,1.0,,,New York City Department of Parks & Recreation,3706,1,"8030 Park Lane
+Kew Gardens, NY 11415
+(40.711186177816984, -73.83543395214066)",NY,11415.0,,/opportunities/5189,onetime,0,March 11 2011,March 11 2011,approved,,,,,,
+91,5,0,367,,1.0,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5294,ongoing,0,April 14 2011,April 18 2011,approved,,,,,,
+92,1,0,180,,2.0,,,New York Legal Assistance Group,104,1,"7 Hanover Square
+New York, NY 10004
+(40.7043068313896, -74.00918226342714)",NY,10004.0,,/opportunities/5642,ongoing,0,August 16 2011,August 17 2011,approved,,,,,,
+93,20,0,160,,1.0,,,American Liver Foundation,38926,1,"39 Broadway
+New York, NY 10006
+(40.70625429589656, -74.01296358496856)",NY,10006.0,,/opportunities/5239,ongoing,0,March 31 2011,April 01 2011,approved,,,,,,
+94,4,0,210,,1.0,,,Project Envision,40554,1,"30 Bay street
+staten island, NY 10301
+(40.638846834506786, -74.07333227142284)",NY,10301.0,,/opportunities/5389,ongoing,0,May 27 2011,June 02 2011,approved,,,,,,
+95,3,0,1075,,2.0,,,Cathedral Community Cares,4235,1,"1047 Amsterdam Ave
+New York, NY 10025
+(40.80384978364436, -73.96317712587883)",NY,10025.0,,/opportunities/5042,ongoing,0,January 25 2011,January 25 2011,approved,,,,,,
+96,50,0,108,,1.0,,,Friends of Van Cortlandt Park,161,1,"124 Gale Place
+Bronx, NY 10463
+(40.88463029202243, -73.89251933209881)",NY,10463.0,,/opportunities/5003,onetime,0,January 14 2011,January 25 2011,approved,,,,,,
+97,20,0,274,,1.0,,,Street Vendor Project,19130,1,"123 William Street
+New York, NY 10038
+(40.70909122458545, -74.006906978693)",NY,10038.0,,/opportunities/5094,ongoing,0,February 09 2011,May 10 2011,approved,,,,,,
+98,20,0,113,,1.0,,,Global Workers Justice Alliance,38964,1,"789 Washington Ave
+Brooklyn, NY 11238
+(40.672975949069446, -73.96279597119232)",NY,11238.0,,/opportunities/5243,onetime,0,April 01 2011,April 04 2011,approved,,,,,,
+99,1,0,140,,2.0,,,Jewish Association for Services for the Aged (JASA),728,1,"132 31st Street
+New York, NY 10001
+(40.74849052268911, -73.99056629742063)",NY,10001.0,,/opportunities/4995,ongoing,0,January 13 2011,January 14 2011,approved,,,,,,
+100,1,0,272,,2.0,,,Greater Chinatown Community Association,1232,1,"105 Mosco Street
+New York, NY 10013
+(40.714478163541, -73.99923576178304)",NY,10013.0,,/opportunities/5260,ongoing,0,April 11 2011,June 18 2011,approved,,,,,,
+101,10,0,159,,1.0,,,The Family Center,44702,1,"315 36th Street
+New York, NY 10018
+(40.75386846842434, -73.99347110757526)",NY,10018.0,,/opportunities/5593,ongoing,0,August 03 2011,August 04 2011,approved,,,,,,
+102,5,0,81,,2.0,,,Bronx ESL Program,52027,1,"312 114th St
+New York, NY 10026
+(40.80351104444168, -73.9572644026756)",NY,10026.0,,/opportunities/5726,ongoing,0,September 08 2011,September 08 2011,approved,,,,,,
+103,15,0,154,,3.0,,,East Harlem Tutorial Program,448,1,"2050 Second Avenue
+New York, NY 10029
+(40.79013250049554, -73.94275604693821)",NY,10029.0,,/opportunities/5723,ongoing,0,September 07 2011,September 07 2011,approved,,,,,,
+104,25,0,277,,2.0,,,Yorkville Common Pantry,779,1,"8 109th Street
+New York, NY 10029
+(40.795965732615855, -73.94910755186987)",NY,10029.0,,/opportunities/5617,ongoing,0,August 11 2011,August 15 2011,approved,,,,,,
+105,1,0,392,,1.0,,,Hudson River Park,37596,1,"40 2nd
+New York, NY 10014
+(40.72501393263116, -73.99023147176524)",NY,10014.0,,/opportunities/5076,ongoing,0,February 04 2011,February 04 2011,approved,,,,,,
+106,20,0,320,,1.0,,,New York City Department of Parks & Recreation,3706,1,"80 30 Park Lane
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5185,onetime,0,March 11 2011,March 11 2011,approved,,,,,,
+107,5,0,365,,1.0,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5293,ongoing,0,April 14 2011,April 18 2011,approved,,,,,,
+108,5,0,0,,1.0,,,"Cents Ability, Inc.",37154,1,"37 Avenue
+New York, NY 10009
+(40.72664935898081, -73.97911148500697)",NY,10009.0,,/opportunities/5017,onetime,0,January 19 2011,January 26 2011,approved,,,,,,
+109,100,0,259,,1.0,,,Manhattanville Community Center,1072,1,"530 133rd Street
+Manhattan, NY 10027
+(40.81810690053051, -73.95449058374143)",NY,10027.0,,/opportunities/5230,ongoing,0,March 25 2011,March 25 2011,approved,,,,,,
+110,30,0,380,,4.0,,,Transportation Alternatives,2308,1,"127 26th St
+New York, NY 10002
+(40.601149489516224, -73.99944293492823)",NY,10002.0,,/opportunities/5468,ongoing,0,June 13 2011,June 13 2011,approved,,,,,,
+111,99,0,46,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5434,ongoing,0,June 06 2011,June 10 2011,approved,,,,,,
+112,10,0,1060,,3.0,,,Children's Choice Family Services,33702,1,"1009 Broadway
+Brooklyn, NY 11221
+(40.695875302485035, -73.93322048320155)",NY,11221.0,,/opportunities/4998,ongoing,0,January 14 2011,August 24 2011,approved,,,,,,
+113,10,0,184,,2.0,,,Metropolitan Council on Jewish Poverty,974,1,"80 Maiden Lane
+New York, NY 10038
+(40.70722063476455, -74.00745556513084)",NY,10038.0,,/opportunities/5200,ongoing,0,March 15 2011,March 21 2011,approved,,,,,,
+114,20,0,12,,1.0,,,Street Project,3001,1,"441 Manhattan Avenue
+New York, NY 10026
+(40.80669464442542, -73.95561864336202)",NY,10026.0,,/opportunities/5036,onetime,0,January 24 2011,January 25 2011,approved,,,,,,
+115,2,0,247,,5.0,,,Grand Central Neighborhood Social Services Corporation,84,1,"120 32nd Street
+New York, NY 10016
+(40.745396854908336, -73.9813392534)",NY,10016.0,,/opportunities/5193,ongoing,0,March 11 2011,July 05 2011,approved,,,,,,
+116,3,0,200,,2.0,,,The Lenox Hill Neighborhood House,2138,1,"331 70th Street
+New York, NY 10001
+(40.63454489394634, -74.02560091774434)",NY,10001.0,,/opportunities/5488,ongoing,0,June 26 2011,June 27 2011,approved,,,,,,
+117,20,0,197,,2.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5038,ongoing,0,January 25 2011,March 04 2011,approved,,,,,,
+118,12,0,163,,2.0,,,"Talk Therapy Television, Inc.",50265,1,"95 21 106 Street
+Ozone Park, NY 11416
+(40.68457809700163, -73.8496016684822)",NY,11416.0,,/opportunities/5655,ongoing,0,August 19 2011,August 19 2011,approved,,,,,,
+119,15,0,544,,3.0,,,Reach Out and Read-Morris Heights Health Center,38171,1,"85 Burnside Avenue
+Bronx, NY 10453
+(40.85327655150609, -73.9058481060323)",NY,10453.0,,/opportunities/5142,ongoing,0,February 28 2011,July 07 2011,approved,,,,,,
+120,15,0,291,,1.0,,,"Resources for Children with Special Needs, Inc.",42859,1,"116 16th St
+New York, NY 10003
+(40.73551330580631, -73.98834497200824)",NY,10003.0,,/opportunities/5500,onetime,0,July 01 2011,July 02 2011,approved,,,,,,
+121,50,0,3816,y,5.0,,,The Greater New York City Affiliate Of Susan G. Komen For The Cure,2424,1,"470 7th Avenue
+New York, NY 10018
+(40.75207881758604, -73.98985583301749)",NY,10018.0,,/opportunities/5493,ongoing,0,June 29 2011,August 12 2011,approved,,,,,,
+122,200,0,480,,1.0,,,Dumbo Arts Festival,28912,1,"45 Main Street
+Brooklyn, NY 10010
+(40.70283077508606, -73.99064762914425)",NY,10010.0,,/opportunities/5604,ongoing,0,August 08 2011,August 09 2011,approved,,,,,,
+123,99,0,73,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5409,ongoing,0,June 06 2011,June 08 2011,approved,,,,,,
+124,5,0,80,,2.0,,,FEGS,2833,1,"315 Hudson St
+New York, NY 10013
+(40.72636283816059, -74.00749200433894)",NY,10013.0,,/opportunities/5761,ongoing,0,September 19 2011,September 19 2011,approved,,,,,,
+125,20,0,242,,1.0,,,Citymeals-on-Wheels,101,1,"355 Lexington Ave
+New York, NY 10017
+(40.75016951126717, -73.97694147468593)",NY,10017.0,,/opportunities/5666,ongoing,0,August 22 2011,August 22 2011,approved,,,,,,
+126,2,0,56,,3.0,,,Girl Scouts NYC,44253,1,"160 120th St
+Harlem, NY 10035
+(40.80086116283244, -73.93905667795286)",NY,10035.0,,/opportunities/5573,ongoing,0,August 01 2011,August 22 2011,approved,,,,,,
+127,1,0,175,,1.0,,,Big Apple Greeter,92,1,"1 Centre Street
+New York, NY 10007
+(40.71320112625938, -74.00400216853836)",NY,10007.0,,/opportunities/5486,ongoing,0,June 23 2011,June 24 2011,approved,,,,,,
+128,1,0,64,,1.0,,,Up2Us,37687,1,"116 Seaman Ave
+New York, NY 10034
+(40.86858598648183, -73.9237466706436)",NY,10034.0,,/opportunities/5223,ongoing,0,March 22 2011,March 22 2011,approved,,,,,,
+129,5,0,589,,1.0,,,Future Grads,37545,1,"218 73 Hempstead Avenue
+Queens Village, NY 11429
+(40.70991312049415, -73.73864031609764)",NY,11429.0,,/opportunities/5070,ongoing,0,February 03 2011,February 03 2011,approved,,,,,,
+130,99,0,64,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5419,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+131,17,0,282,,1.0,,,Future Grads,37545,1,"260373 Bellerose
+NY 11426
+(40.73704138495202, -73.72415699894628)",NY,11426.0,,/opportunities/5069,ongoing,0,February 02 2011,February 03 2011,approved,,,,,,
+132,2,0,29,,1.0,,,Harm Reduction Coalition,3899,1,"22 27th Street
+New York, NY 10001
+(40.74483028202985, -73.98955006352747)",NY,10001.0,,/opportunities/5335,onetime,0,April 28 2011,May 11 2011,approved,,,,,,
+133,1,0,329,,1.0,,,Live Out Loud - Volunteers,18819,1,"570 7th Ave
+New York, NY 10018
+(40.75520845824798, -73.98756256184276)",NY,10018.0,,/opportunities/5380,ongoing,0,May 23 2011,September 14 2011,approved,,,,,,
+134,10,0,98,,5.0,,,Bike New York,38740,1,"475 Riverside Drive
+New York City, NY 10115
+(40.810551000428404, -73.96469400002803)",NY,10115.0,,/opportunities/5514,ongoing,0,July 12 2011,July 14 2011,approved,,,,,,
+135,1,0,98,,2.0,,,New York Asian Women's Center,24,1,"32 Broadway
+New York, NY 10004
+(40.70604252290616, -74.01308532103428)",NY,10004.0,,/opportunities/5557,ongoing,0,July 26 2011,August 18 2011,approved,,,,,,
+136,1,0,150,,2.0,,,Coney Island Lighthouse Mission,2068,1,"2114 Mermaid Ave
+Brooklyn, NY 11224
+(40.576224014939264, -73.9881199499576)",NY,11224.0,,/opportunities/5596,ongoing,0,August 04 2011,August 24 2011,approved,,,,,,
+137,2,0,44,,3.0,,,Up2Us,37687,1,"10 27 46th Ave
+Long Island City, NY 11101
+(40.74570244980828, -73.93866902925225)",NY,11101.0,,/opportunities/5148,ongoing,0,March 01 2011,March 09 2011,approved,,,,,,
+138,1,0,580,,,,,Hudson River Park,37596,1,"40 2nd
+New York, NY 10014
+(40.72501393263116, -73.99023147176524)",NY,10014.0,,/opportunities/5077,ongoing,0,February 04 2011,February 04 2011,approved,,,,,,
+139,30,0,118,,3.0,,,Jumpstart for Young Children,3756,1,"560 Theriot Avenue
+Bronx, NY 10473
+(40.8165172103251, -73.8608405743061)",NY,10473.0,,/opportunities/5060,onetime,0,January 31 2011,February 01 2011,approved,,,,,,
+140,50,0,45,,1.0,,,Girls Incorporated Of New York City,1166,2,"271 23rd Street
+New York, NY 10011
+(40.74507309897774, -73.99795872450147)",NY,10011.0,,/opportunities/5342,ongoing,0,May 09 2011,May 16 2011,approved,,,,,,
+141,1,0,74,,1.0,,,Episcopal Social Services NYC,42496,1,"305 Seventh Avenue
+New York, NY 10001-6008
+(40.74678037991758, -73.99366420981637)",NY,,,/opportunities/5506,ongoing,0,July 07 2011,August 10 2011,approved,,,,,,
+142,20,0,125,y,2.0,,,NYC Service,3747,1,"181 Brooklyn
+NY 11203
+(40.649721601170995, -73.93427608567276)",NY,11203.0,,/opportunities/5390,onetime,0,May 27 2011,May 28 2011,approved,,,,,,
+143,2,0,62,,2.0,,,"New York Therapeutic Communities, Inc.",52380,1,"2071 Fulton St
+Brooklyn, NY 11233
+(40.67827825514447, -73.91028377492181)",NY,11233.0,,/opportunities/5733,ongoing,0,September 12 2011,September 12 2011,approved,,,,,,
+144,30,0,264,y,4.0,,,Office of Recycling Outreach and Education,36773,1,"51 Chambers Street
+New York, NY 10007
+(40.71377351801845, -74.0053942535769)",NY,10007.0,,/opportunities/5743,onetime,0,September 14 2011,September 19 2011,approved,,,,,,
+145,9999,0,158,,1.0,,,Friends of Van Cortlandt Park,161,1,"124 Gale Pl
+Bronx, NY 10463
+(40.88463029202243, -73.89251933209881)",NY,10463.0,,/opportunities/5005,onetime,0,January 14 2011,March 08 2011,approved,,,,,,
+146,10,0,528,,3.0,,,ClassWish,39580,1,"401 7th avenue
+New York, NY 10001
+(40.75012728878244, -73.99124978216287)",NY,10001.0,,/opportunities/5330,ongoing,0,April 27 2011,September 16 2011,approved,,,,,,
+147,2700,0,91,,2.0,,,Where To Turn,2879,1,"150-L Greaves Lane
+Staten Island, NY 10308
+(40.55398681414339, -74.14475942007853)",NY,10308.0,,/opportunities/4987,ongoing,0,January 12 2011,January 12 2011,approved,,,,,,
+148,10,0,297,,2.0,,,Arab American Association Of New York,3810,1,"7111 5th Avenue
+Brooklyn, NY 11209
+(40.63245112562076, -74.02139571101452)",NY,11209.0,,/opportunities/5066,ongoing,12,February 02 2011,February 25 2011,approved,,,,,,
+149,99,0,38,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5444,ongoing,0,June 07 2011,June 10 2011,approved,,,,,,
+150,30,0,182,,,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5033,ongoing,0,January 24 2011,July 21 2011,approved,,,,,,
+151,99,0,69,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5446,ongoing,0,June 07 2011,June 10 2011,approved,,,,,,
+152,99,0,82,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5451,ongoing,0,June 07 2011,June 09 2011,approved,,,,,,
+153,20,0,128,,3.0,,,Jumpstart for Young Children,3756,1,"71 25 Main Street
+Flushing, NY 11367
+(40.730323085042414, -73.82610630716033)",NY,11367.0,,/opportunities/5074,onetime,0,February 03 2011,February 03 2011,approved,,,,,,
+154,99,0,38,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5443,ongoing,0,June 07 2011,June 10 2011,approved,,,,,,
+155,15,0,725,,3.0,,,Queens Satellite High School for Opportunity,38369,1,"162 02 Hillside Avenue
+Jamaica, NY 11432
+(40.71311535449007, -73.79282099978928)",NY,11432.0,,/opportunities/5165,ongoing,0,March 08 2011,August 17 2011,approved,,,,,,
+156,1,0,30,y,5.0,,,New York City Department of Parks & Recreation,3706,1,"450 St Anns Ave
+Bronx, NY 10455
+(40.81200330013793, -73.91424241425239)",NY,10455.0,,/opportunities/5757,ongoing,0,September 16 2011,September 19 2011,approved,,,,,,
+157,85,0,181,,3.0,,,The International High School @ Prospect Heights,37465,1,"883 classon avenue
+Brooklyn, NY 11225
+(40.67045865769921, -73.96162827573441)",NY,11225.0,,/opportunities/5058,ongoing,0,January 31 2011,February 01 2011,approved,,,,,,
+158,99,0,67,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5450,ongoing,0,June 07 2011,June 08 2011,approved,,,,,,
+159,2,0,396,,3.0,,,The HopeLine,32839,1,"421 155th Street
+Bronx, NY 10455
+(40.820027861846086, -73.91525005078392)",NY,10455.0,,/opportunities/5495,ongoing,0,June 30 2011,June 30 2011,approved,,,,,,
+160,99,0,96,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5429,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+161,20,0,1130,y,2.0,,,NYC Service,3747,1,"253 Broadway
+New York, NY 10007
+(40.713255085581125, -74.00706885665824)",NY,10007.0,,/opportunities/4983,onetime,0,January 11 2011,February 02 2011,approved,,,,,,
+162,10,0,148,,5.0,,,Bike New York,38740,1,"475 Riverside Drive
+New York City, NY 10115
+(40.810551000428404, -73.96469400002803)",NY,10115.0,,/opportunities/5531,ongoing,0,July 19 2011,July 20 2011,approved,,,,,,
+163,20,0,50,,3.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22 Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5674,ongoing,0,August 24 2011,August 25 2011,approved,,,,,,
+164,25,0,105,,2.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5385,ongoing,0,May 25 2011,June 01 2011,approved,,,,,,
+165,10,0,372,y,2.0,,,NYC Service,3747,1,"346 Broadway
+New York, NY 10013
+(40.71671747539392, -74.00413706684276)",NY,10013.0,,/opportunities/5300,onetime,0,April 15 2011,April 15 2011,approved,,,,,,
+166,1,0,68,,2.0,,,"Services for the UnderServed, Inc.",38951,1,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5539,ongoing,0,July 20 2011,August 23 2011,approved,,,,,,
+167,5,0,123,,1.0,,,Police Athletic League Of New York,3067,1,"985 Rockaway Avenue
+Brooklyn, NY 11212
+(40.656451255408264, -73.90732282830548)",NY,11212.0,,/opportunities/5649,ongoing,0,August 17 2011,August 18 2011,approved,,,,,,
+168,5,0,312,,1.0,,,The Jewish Museum,37348,1,"1109 Fifth Avenue
+New York, NY 10128
+(40.78553359707598, -73.95746225352207)",NY,10128.0,,/opportunities/5051,ongoing,0,January 27 2011,January 28 2011,approved,,,,,,
+169,2,0,141,,1.0,,,Family and Community Support Services,38868,1,"1195 St Marks Ave
+Brooklyn, NY 11213
+(40.674130422885526, -73.92980967882666)",NY,11213.0,,/opportunities/5620,ongoing,0,August 11 2011,August 15 2011,approved,,,,,,
+170,25,0,294,y,1.0,,,"Services for the UnderServed, Inc.",38951,1,"2350 Davidson Avenue
+Bronx, NY 10468
+(40.86014769900449, -73.9039466708318)",NY,10468.0,,/opportunities/5736,onetime,0,September 13 2011,September 26 2011,approved,,,,,,
+171,2,0,483,,,,,Gorman Park Volunteers,39189,1,"24 61
+New York, NY 10023
+(40.774536138232236, -73.97994335610099)",NY,10023.0,,/opportunities/5268,ongoing,0,April 12 2011,April 14 2011,approved,,,,,,
+172,8,0,414,,1.0,,,The Tank,48335,1,"155 46th Street
+New York, NY 10036
+(40.758257159927325, -73.9843070160967)",NY,10036.0,,/opportunities/5554,ongoing,0,July 22 2011,July 25 2011,approved,,,,,,
+173,1,0,225,,1.0,,,Big Apple Greeter,92,1,"1 Centre Street
+New York, NY 10007
+(40.71320112625938, -74.00400216853836)",NY,10007.0,,/opportunities/5131,ongoing,0,February 23 2011,February 24 2011,approved,,,,,,
+174,75,0,494,,4.0,,,WCS,50428,1,"2300 Southern Boulevard
+Bronx, NY 10460
+(40.85069279863572, -73.8823905260465)",NY,10460.0,,/opportunities/5670,onetime,0,August 23 2011,August 24 2011,approved,,,,,,
+175,12,0,267,,3.0,,,Boys Hope Girls Hope New York,32477,1,"Flatbush
+Brooklyn, NY 11238
+(40.672129089181226, -73.96879371109125)",NY,11238.0,,/opportunities/5576,ongoing,0,August 01 2011,August 01 2011,approved,,,,,,
+176,1,0,276,,1.0,,,Brooklyn Community Services,39558,1,"285 Schermerhorn Street
+Brooklyn, NY 11217
+(40.687790343385544, -73.98292053949278)",NY,11217.0,,/opportunities/5325,ongoing,0,April 27 2011,April 29 2011,approved,,,,,,
+177,6,0,804,y,3.0,,,The Harlem Educational Activities Fund,35740,1,"509 129th Street
+New York, NY 10027
+(40.81520669715875, -73.9551464649788)",NY,10027.0,,/opportunities/5199,ongoing,0,March 15 2011,April 06 2011,approved,,,,,,
+178,10,0,332,,1.0,,,Dress for Success - Bronx Branch,49954,1,"2038 Davidson Avenue
+Bronx, NY 10453
+(40.85374837851653, -73.90853996733885)",NY,10453.0,,/opportunities/5614,ongoing,0,August 10 2011,August 10 2011,approved,,,,,,
+179,1,0,18,,2.0,,,Jewish Association for Services for the Aged (JASA),728,1,"247 37th Street
+New York, NY 10018-5706
+(40.75376954300111, -73.99127676182377)",NY,,,/opportunities/5782,ongoing,0,September 26 2011,September 26 2011,approved,,,,,,
+180,1,0,117,,2.0,,,Center For Hearing And Communication,3822,1,"50 Broadway
+New York, NY 10004
+(40.70641124493818, -74.01279753798491)",NY,10004.0,,/opportunities/5204,ongoing,0,March 16 2011,March 22 2011,approved,,,,,,
+181,10,0,196,,2.0,,,Dress for Success - Bronx Branch,49954,1,"2038 Davidson Avenue
+Bronx, NY 10453
+(40.85374837851653, -73.90853996733885)",NY,10453.0,,/opportunities/5613,ongoing,0,August 10 2011,August 10 2011,approved,,,,,,
+182,100,0,260,,2.0,,,DOROT,397,1,"171 85th Street
+New York, NY 10024
+(40.786855600459035, -73.97516990427897)",NY,10024.0,,/opportunities/5206,onetime,0,March 16 2011,March 22 2011,approved,,,,,,
+183,14,0,273,,,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5333,ongoing,0,April 28 2011,April 29 2011,approved,,,,,,
+184,50,0,1049,y,1.0,,,NYC Service,3747,1,"253 Broadway
+New York, NY 10007
+(40.713255085581125, -74.00706885665824)",NY,10007.0,,/opportunities/5752,ongoing,0,September 16 2011,September 23 2011,approved,,,,,,
+185,10,0,112,,3.0,,,Union Settlement Association,52760,1,"1775 Third Ave
+New York, NY 10029
+(40.7870466388226, -73.94792934815561)",NY,10029.0,,/opportunities/5768,ongoing,0,September 20 2011,September 21 2011,approved,,,,,,
+186,20,0,77,,1.0,,,Office of Recycling Outreach and Education,36773,1,"DEP Visitor Center
+Brooklyn, NY 11222
+(40.72825312178418, -73.94715978319738)",NY,11222.0,,/opportunities/5362,onetime,0,May 13 2011,May 16 2011,approved,,,,,,
+187,8,0,484,,1.0,,,New York City Department of Parks & Recreation,3706,1,"80 30 Park Lane
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5187,ongoing,0,March 11 2011,March 11 2011,approved,,,,,,
+188,50,0,207,,1.0,,,Queens Pride House,34384,1,"76 11 37th Ave
+Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)",NY,11372.0,,/opportunities/5234,ongoing,0,March 28 2011,June 20 2011,approved,,,,,,
+189,30,0,296,,3.0,,,The Fresh Air Fund,602,1,"633 Third Avenue
+New York, NY 10017
+(40.74999676791395, -73.97497079540621)",NY,10017.0,,/opportunities/5624,ongoing,0,August 12 2011,August 15 2011,approved,,,,,,
+190,100,0,141,,3.0,,,"Minds Matter of NYC, Inc.",51953,1,"1120 Avenue
+New York, NY 10036
+(40.75934682719435, -73.989860554421)",NY,10036.0,,/opportunities/5729,ongoing,0,September 08 2011,September 08 2011,approved,,,,,,
+191,100,0,801,,1.0,,,Volunteer Referral Center,1978,1,"161 Madison Avenue
+New York, NY 10016
+(40.7468087904943, -73.98363252457472)",NY,10016.0,,/opportunities/5376,ongoing,0,May 18 2011,May 19 2011,approved,,,,,,
+192,1,0,47,,2.0,,,"Services for the UnderServed, Inc.",38951,1,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5671,ongoing,0,August 23 2011,August 25 2011,approved,,,,,,
+193,5,0,903,,1.0,,,The Leukemia & Lymphoma Society,38555,1,"475 Park Avenue
+New York, NY 10016
+(40.745393847676304, -73.98242124325532)",NY,10016.0,,/opportunities/5196,ongoing,0,March 15 2011,March 29 2011,approved,,,,,,
+194,60,0,673,,3.0,,,Girls Write Now,1111,1,"247 37th Street
+New York City, NY 10018
+(40.75350339905739, -73.99055236906513)",NY,10018.0,,/opportunities/5208,ongoing,0,March 17 2011,June 29 2011,approved,,,,,,
+195,1,0,588,,1.0,,,Big Apple Greeter,92,1,"1 Centre Street
+New York, NY 10007
+(40.71320112625938, -74.00400216853836)",NY,10007.0,,/opportunities/5134,ongoing,0,February 23 2011,March 31 2011,approved,,,,,,
+196,2,0,148,,2.0,,,entrepreneurshipEDGE,39403,1,"1430 Broadway
+New York, NY 10018
+(40.7539853802881, -73.9869780025237)",NY,10018.0,,/opportunities/5529,ongoing,0,July 19 2011,July 19 2011,approved,,,,,,
+197,99,0,151,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5433,ongoing,0,June 06 2011,June 27 2011,approved,,,,,,
+198,99,0,104,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5456,ongoing,0,June 07 2011,June 08 2011,approved,,,,,,
+199,99,0,104,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5435,ongoing,0,June 06 2011,June 10 2011,approved,,,,,,
+200,1,0,110,,1.0,,,Family and Community Support Services,38868,1,"1195 St Marks Ave
+Brooklyn, NY 11213
+(40.674130422885526, -73.92980967882666)",NY,11213.0,,/opportunities/5619,ongoing,0,August 11 2011,August 15 2011,approved,,,,,,
+201,50,0,105,,1.0,,,Friends of Van Cortlandt Park,161,1,"124 Gale Place
+Bronx, NY 10463
+(40.88463029202243, -73.89251933209881)",NY,10463.0,,/opportunities/5002,onetime,0,January 14 2011,March 22 2011,approved,,,,,,
+202,2,0,57,,1.0,,,"APC COMMUNIY SERVICES, INC.",51610,1,"270 42nd Street
+Brooklyn, NY 11203
+(40.649206331820885, -73.93789250578682)",NY,11203.0,,/opportunities/5714,ongoing,0,September 01 2011,September 14 2011,approved,,,,,,
+203,20,0,0,,1.0,,,Street Project,3001,1,"336 Fort Washington Ave at 175th Street
+New York, NY 10033
+(40.85621992920642, -73.94585900019268)",NY,10033.0,,/opportunities/5100,onetime,0,February 11 2011,March 09 2011,approved,,,,,,
+204,15,0,400,,1.0,,,iGotITtoo,38685,1,"380385 Brooklyn
+NY 11238
+(40.67886241346963, -73.9638204696389)",NY,11238.0,,/opportunities/5213,ongoing,0,March 21 2011,July 09 2011,approved,,,,,,
+205,100,0,125,,1.0,,,Friends of Van Cortlandt Park,161,1,"80 Van Cortlandt Park
+Bronx, NY 10463
+(40.88465843017383, -73.88990186467265)",NY,10463.0,,/opportunities/5708,onetime,0,September 01 2011,September 06 2011,approved,,,,,,
+206,20,0,416,,2.0,,,The Trevor Project,40060,1,"80 Maiden Ln
+New York, NY 10038
+(40.70722063476455, -74.00745556513084)",NY,10038.0,,/opportunities/5372,ongoing,0,May 18 2011,May 23 2011,approved,,,,,,
+207,75,0,57,,5.0,,,New York City Department of Parks & Recreation,3706,1,"830 5th Ave
+New York, NY 10065
+(40.76737436501733, -73.97069062911662)",NY,10065.0,,/opportunities/5312,onetime,0,April 21 2011,May 04 2011,approved,,,,,,
+208,99,0,47,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5438,ongoing,0,June 07 2011,June 10 2011,approved,,,,,,
+209,1,0,99,,3.0,,,Girls Write Now,1111,1,"247 37 Street
+Manhattan, NY 10018
+(40.75350339905739, -73.99055236906513)",NY,10018.0,,/opportunities/5628,ongoing,0,August 15 2011,August 18 2011,approved,,,,,,
+210,1,0,202,,1.0,,,Big Apple Greeter,92,1,"1 Centre Street
+New York, NY 10007
+(40.71320112625938, -74.00400216853836)",NY,10007.0,,/opportunities/5132,ongoing,0,February 23 2011,February 24 2011,approved,,,,,,
+211,20,0,590,,1.0,,,New York City Department of Parks & Recreation,3706,1,"80 30 Park Ave
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5184,ongoing,0,March 11 2011,March 11 2011,approved,,,,,,
+212,30,0,377,,2.0,,,"Rape, Abuse & Incest National Network",48967,1,"218 18th Street
+New York, NY 10003
+(40.73537840750191, -73.9843699686387)",NY,10003.0,,/opportunities/5564,ongoing,0,July 28 2011,July 29 2011,approved,,,,,,
+213,2,0,169,,,,,Children of Bellevue,34244,1,"95 Wall Street
+New York, NY 10005
+(40.70499930935216, -74.00720375496263)",NY,10005.0,,/opportunities/5712,onetime,0,September 01 2011,September 01 2011,approved,,,,,,
+214,2,0,246,,6.0,,,World Cares Center,36979,1,"520 8th Avenue
+New York, NY 10018
+(40.75376054978079, -73.99232896859803)",NY,10018.0,,/opportunities/5010,ongoing,0,January 14 2011,January 25 2011,approved,,,,,,
+215,4,0,6,,3.0,,,International Youth Leadership Institute - NY - New York City,1012,1,"657 New
+York, NY 10014
+(40.73358645135369, -74.01019960472792)",NY,10014.0,,/opportunities/5779,ongoing,0,September 24 2011,September 26 2011,approved,,,,,,
+216,50,0,620,y,1.0,,,NYC Service,3747,1,"346 Broadway
+New York, NY 10013
+(40.71671747539392, -74.00413706684276)",NY,10013.0,,/opportunities/5391,ongoing,0,May 29 2011,June 06 2011,approved,,,,,,
+217,40,0,383,,1.0,,,Heel Your Sole,41213,1,"370 30th Street
+New York, NY 10001
+(40.75055442831657, -73.99744286821061)",NY,10001.0,,/opportunities/5467,onetime,0,June 13 2011,June 14 2011,approved,,,,,,
+218,25,0,497,,4.0,,, ENVIROMEDIA MOBILE & UDEC Harlem River Ecology Center,1478,1,"One Beard St
+Brooklyn, NY 11231
+(40.67223368576928, -74.01107379195669)",NY,11231.0,,/opportunities/5336,onetime,0,April 28 2011,April 29 2011,approved,,,,,,
+219,200,0,518,,5.0,,,American Diabetes Association - FERIA,42921,1,"333 Seventh Av
+New York, NY 10001
+(40.747492275236596, -73.99319231774615)",NY,10001.0,,/opportunities/5501,onetime,0,July 01 2011,July 05 2011,approved,,,,,,
+220,1,0,150,,2.0,,,Chhaya Community Development Corporation,3369,1,"37 43 77th Street
+Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)",NY,11372.0,,/opportunities/5401,ongoing,0,June 02 2011,June 15 2011,approved,,,,,,
+221,10,0,187,,3.0,,,Bike New York,38740,1,"475 Riverside Drive
+New York City, NY 10115
+(40.810551000428404, -73.96469400002803)",NY,10115.0,,/opportunities/5497,ongoing,0,June 30 2011,June 30 2011,approved,,,,,,
+222,15,0,103,,,,,American Diabetes Association,39913,1,"333 Seventh Avenue
+New York, NY 10001
+(40.747492275236596, -73.99319231774615)",NY,10001.0,,/opportunities/5354,onetime,0,May 12 2011,June 01 2011,approved,,,,,,
+223,5,0,362,,1.0,,,Afro Brazil Arts,38051,1,"107 Suffolk ST
+New York, NY 10002
+(40.719521874540526, -73.98583731954874)",NY,10002.0,,/opportunities/5130,ongoing,0,February 23 2011,February 24 2011,approved,,,,,,
+224,30,0,412,,6.0,,,Bensonhurst Volunteer Ambulance Service,48067,1,"8310 17th Avenue
+Brooklyn, NY 11214
+(40.610291362390015, -74.003140660141)",NY,11214.0,,/opportunities/5545,ongoing,0,July 22 2011,September 25 2011,approved,,,,,,
+225,10,0,267,,1.0,,,Free Arts NYC,3727,1,"1431 Broadway
+New York, NY 10018
+(40.75455195316658, -73.98680713133814)",NY,10018.0,,/opportunities/5526,onetime,0,July 18 2011,July 18 2011,approved,,,,,,
+226,15,0,572,,1.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5120,ongoing,0,February 18 2011,March 04 2011,approved,,,,,,
+227,20,0,428,,2.0,,,The Trevor Project,40060,1,"80 Maiden Ln
+New York, NY 10038
+(40.70722063476455, -74.00745556513084)",NY,10038.0,,/opportunities/5374,ongoing,0,May 18 2011,May 23 2011,approved,,,,,,
+228,3,0,69,,2.0,,,Jewish Association for Services for the Aged (JASA),728,1,"3601 Surf Avenue
+Coney Island, NY 11224
+(40.57319508561414, -74.00142731235965)",NY,11224.0,,/opportunities/5706,ongoing,0,September 01 2011,September 06 2011,approved,,,,,,
+229,99,0,30,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5412,ongoing,0,June 06 2011,June 08 2011,approved,,,,,,
+230,25,0,212,,2.0,,,Part of the Solution (POTS),46,1,"2763 Webster Avenue
+Bronx, NY 10458
+(40.86579443967629, -73.88632317887395)",NY,10458.0,,/opportunities/5465,ongoing,0,June 09 2011,June 09 2011,approved,,,,,,
+231,10,0,200,,1.0,,,The Battery Conservancy,1200,1,"One New York Plaza
+New York, NY 10004
+(40.621841348479, -74.12920292688285)",NY,10004.0,,/opportunities/5353,onetime,0,May 11 2011,May 13 2011,approved,,,,,,
+232,70,0,576,y,4.0,,,"Artichoke Dance Company, Inc.",32874,1,"Oriental Boulevard
+Brooklyn, NY 11235
+(40.57836127779629, -73.93735341294692)",NY,11235.0,,/opportunities/5662,onetime,0,August 22 2011,September 02 2011,approved,,,,,,
+233,15,0,248,y,2.0,,,NYC Department Of Consumer Affairs Office Of Financial Empowerment,119,1,"160 02 Liberty Avenue
+Jamaica, NY 11451
+(40.70259499975947, -73.79562300040112)",NY,11451.0,,/opportunities/5136,onetime,0,February 24 2011,April 22 2011,approved,,,,,,
+234,2,0,173,,5.0,,,New York Futsal,39106,1,"233 77th Street
+New York, NY 10024
+(40.78255158071745, -73.98091585032279)",NY,10024.0,,/opportunities/5280,ongoing,0,April 13 2011,April 14 2011,approved,,,,,,
+235,5,0,118,,,,,Arab American Association Of New York,3810,1,"7111 5th Avenue
+Brooklyn, NY 11209
+(40.63245112562076, -74.02139571101452)",NY,11209.0,,/opportunities/5068,ongoing,0,February 02 2011,February 03 2011,approved,,,,,,
+236,2,0,137,,1.0,,,Girl Scouts NYC,44253,1,"225 Adelphi St
+Brooklyn, NY 11205
+(40.69083345992718, -73.97137424737471)",NY,11205.0,,/opportunities/5570,ongoing,0,August 01 2011,August 22 2011,approved,,,,,,
+237,5,0,250,,1.0,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5274,ongoing,0,April 12 2011,April 14 2011,approved,,,,,,
+238,2,0,184,,1.0,,,Salah M. Hassanein Variety Boys & Girls Club Of Queens,793,1,"21 12 30 Road
+Long Island City, NY 11102
+(40.77152402451418, -73.92643545073543)",NY,11102.0,,/opportunities/5665,ongoing,0,August 22 2011,August 24 2011,approved,,,,,,
+239,2,0,326,,2.0,,,Arab American Association Of New York,3810,1,"7111 5th Avenue
+Brooklyn, NY 11209
+(40.63245112562076, -74.02139571101452)",NY,11209.0,,/opportunities/5143,ongoing,0,February 28 2011,March 01 2011,approved,,,,,,
+240,100,0,249,,1.0,,,2011 World Science Festival,39246,1,"475 Riverside Drive
+New York, NY 10115
+(40.811119146157, -73.96405175554054)",NY,10115.0,,/opportunities/5313,ongoing,0,April 21 2011,April 22 2011,approved,,,,,,
+241,1,0,57,,1.0,,,Mayor's Office of Immigrant Affairs,49525,1,"253 Broadway
+NYC, NY 10007
+(40.713255085581125, -74.00706885665824)",NY,10007.0,,/opportunities/5669,onetime,0,August 23 2011,August 24 2011,approved,,,,,,
+242,50,0,100,,1.0,,,Friends of Van Cortlandt Park,161,1,"124 Gale Pl
+Bronx, NY 10463
+(40.88463029202243, -73.89251933209881)",NY,10463.0,,/opportunities/5004,onetime,0,January 14 2011,January 25 2011,approved,,,,,,
+243,1,0,189,,1.0,,,The Lenox Hill Neighborhood House,2138,1,"331 70th Street
+New York, NY 10021
+(40.76689065140857, -73.95789392809615)",NY,10021.0,,/opportunities/5601,ongoing,0,August 04 2011,August 05 2011,approved,,,,,,
+244,3,0,167,,5.0,,,Jewish Association for Services for the Aged (JASA),728,1,"9502 Seaview Avenue
+Brooklyn, NY 11206
+(40.6326745532508, -73.89124182389159)",NY,11206.0,,/opportunities/5160,ongoing,0,March 07 2011,March 07 2011,approved,,,,,,
+245,6,0,49,,2.0,,,The Momentum Project,46019,1,"619 Lexington Avenue
+New York, NY 10022
+(40.75867891119946, -73.9707368555664)",NY,10022.0,,/opportunities/5765,ongoing,0,September 20 2011,September 22 2011,approved,,,,,,
+246,1,0,59,y,5.0,,,New York City Department of Parks & Recreation,3706,1,"450 St Anns Ave
+Bronx, NY 10455
+(40.81200330013793, -73.91424241425239)",NY,10455.0,,/opportunities/5759,ongoing,0,September 16 2011,September 19 2011,approved,,,,,,
+247,99,0,73,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5455,ongoing,0,June 07 2011,June 08 2011,approved,,,,,,
+248,100,0,253,,4.0,,,Friends of Van Cortlandt Park,161,1,"80 Van Cortlandt Park
+Bronx, NY 10463
+(40.88465843017383, -73.88990186467265)",NY,10463.0,,/opportunities/5509,onetime,0,July 07 2011,July 14 2011,approved,,,,,,
+249,5,0,498,,1.0,,,"Jewish Home Lifecare, Manhattan Division",2694,1,"120 106th st
+New York, NY 10025
+(40.7994834845182, -73.96352009942227)",NY,10025.0,,/opportunities/5367,ongoing,0,May 16 2011,September 13 2011,approved,,,,,,
+250,5,0,114,,1.0,,,The Lenox Hill Neighborhood House,2138,1,"331 70th Street
+New York, NY 10018
+(40.63454489394634, -74.02560091774434)",NY,10018.0,,/opportunities/4968,ongoing,0,January 06 2011,January 06 2011,approved,,,,,,
+251,300,0,98,,,,,"Housing Works, Inc.",835,1,"123 18th St
+New York, NY 10011
+(40.74016732024642, -73.99568642245652)",NY,10011.0,,/opportunities/5314,ongoing,0,April 21 2011,April 21 2011,approved,,,,,,
+252,1,0,206,,2.0,,,Grand Central Neighborhood Social Services Corporation,84,1,"120 32nd Street
+New York, NY 10016
+(40.745396854908336, -73.9813392534)",NY,10016.0,,/opportunities/5368,ongoing,0,May 17 2011,July 05 2011,approved,,,,,,
+253,10,0,329,,5.0,,,American Cancer Society,36987,1,"132 32nd St
+New York, NY 10001
+(40.74868428617484, -73.98921741350024)",NY,10001.0,,/opportunities/5018,ongoing,0,January 19 2011,January 21 2011,approved,,,,,,
+254,1,0,30,,2.0,,,"Services for the UnderServed, Inc.",38951,1,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5538,ongoing,0,July 20 2011,August 23 2011,approved,,,,,,
+255,99,0,30,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5416,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+256,40,0,107,,1.0,,,Foster Parent Advocacy Foundation Inc,2786,1,"135 Lenox avenue
+new york, NY 10027
+(40.80462764517352, -73.94791180271073)",NY,10027.0,,/opportunities/5308,onetime,0,April 20 2011,April 20 2011,approved,,,,,,
+257,5,0,316,,1.0,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5272,ongoing,0,April 12 2011,April 14 2011,approved,,,,,,
+258,1,0,242,,,,,Globalhood,3382,1,"220 Fitfy Avenue
+New York, NY 10001
+(40.75025902143676, -73.99688630375988)",NY,10001.0,,/opportunities/5654,ongoing,0,August 18 2011,September 09 2011,approved,,,,,,
+259,99,0,43,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5426,ongoing,0,June 06 2011,June 08 2011,approved,,,,,,
+260,18,0,134,,2.0,,,Street Project,3001,1,"32 31st Street
+New York, NY 10001
+(40.74720449218722, -73.98751759574128)",NY,10001.0,,/opportunities/5626,onetime,0,August 15 2011,August 15 2011,approved,,,,,,
+261,250,0,331,y,6.0,,,NYC Service,3747,1,"Shore Front Parkway
+Queens, NY 11693
+(40.58491927250253, -73.81086259712633)",NY,11693.0,,/opportunities/5686,onetime,0,August 29 2011,August 30 2011,approved,,,,,,
+262,2,0,217,,3.0,,,Girl Scouts NYC,44253,1,"509 129th St
+Harlem, NY 10027
+(40.81520669715875, -73.9551464649788)",NY,10027.0,,/opportunities/5572,ongoing,0,August 01 2011,August 22 2011,approved,,,,,,
+263,99,0,135,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5439,ongoing,0,June 07 2011,June 10 2011,approved,,,,,,
+264,15,0,189,,1.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5037,ongoing,0,January 25 2011,March 04 2011,approved,,,,,,
+265,10,0,534,,3.0,,,In Arms Reach Inc,37042,1,"160 CONVENT AVE
+New York City, NY 10031
+(40.81951334804657, -73.95002324608663)",NY,10031.0,,/opportunities/5081,ongoing,0,February 04 2011,February 07 2011,approved,,,,,,
+266,32,0,122,,2.0,,,Brooklyn Special Olympics,235,1,"79 Fort
+Tilden, NY 11695
+(40.59760800020911, -73.820967000027)",NY,11695.0,,/opportunities/5173,onetime,0,March 09 2011,March 09 2011,approved,,,,,,
+267,70,0,190,,3.0,,,East Harlem Tutorial Program,448,1,"2050 Second Avenue
+New York, NY 10029
+(40.79013250049554, -73.94275604693821)",NY,10029.0,,/opportunities/5663,ongoing,0,August 22 2011,August 22 2011,approved,,,,,,
+268,2,0,80,,2.0,,,Jewish Association for Services for the Aged (JASA),728,1,"132 31st Street
+New York, NY 10001
+(40.74849052268911, -73.99056629742063)",NY,10001.0,,/opportunities/5629,ongoing,0,August 15 2011,August 15 2011,approved,,,,,,
+269,5,0,438,,1.0,,,Center for Architecture Foundation,36818,1,"536 LaGuardia Place
+New York, NY 10012
+(40.72854672046361, -73.99858598043322)",NY,10012.0,,/opportunities/4971,ongoing,0,January 06 2011,January 10 2011,approved,,,,,,
+270,50,0,266,,1.0,,,Friends of Van Cortlandt Park,161,1,"124 Gale Place
+Bronx, NY 10463
+(40.88463029202243, -73.89251933209881)",NY,10463.0,,/opportunities/5001,onetime,0,January 14 2011,January 25 2011,approved,,,,,,
+271,2,0,313,,2.0,,,Part of the Solution (POTS),46,1,"2763 Webster Avenue
+Bronx, NY 10458
+(40.86579443967629, -73.88632317887395)",NY,10458.0,,/opportunities/5494,ongoing,0,June 29 2011,June 30 2011,approved,,,,,,
+272,20,0,179,,1.0,,,Friends of Van Cortlandt Park,161,1,"124 Gale Pl
+Bronx, NY 10463
+(40.88463029202243, -73.89251933209881)",NY,10463.0,,/opportunities/4999,ongoing,0,January 14 2011,January 21 2011,approved,,,,,,
+273,20,0,162,,1.0,,,"The Puppetry Arts Theatre, Inc",999,1,"339 2nd St
+Brooklyn, NY 11215
+(40.673645689609174, -73.98322195336355)",NY,11215.0,,/opportunities/5704,ongoing,0,September 01 2011,September 01 2011,approved,,,,,,
+274,1,0,118,,1.0,,,Big Apple Greeter,92,1,"1 Centre Street
+New York, NY 10007
+(40.71320112625938, -74.00400216853836)",NY,10007.0,,/opportunities/5073,ongoing,0,February 03 2011,February 03 2011,approved,,,,,,
+275,15,0,150,,1.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5161,ongoing,0,March 07 2011,March 07 2011,approved,,,,,,
+276,30,0,343,,3.0,,,Working in Support of Education (w!se),41295,1,"High School of Economics
+New York, NY 10006
+(40.70825614030866, -74.01355356964149)",NY,10006.0,,/opportunities/5472,ongoing,0,June 14 2011,August 16 2011,approved,,,,,,
+277,4,0,196,,5.0,,,Metropolitan Council on Jewish Poverty,974,1,"171 Lexington Ave
+New York, NY 10016
+(40.74423799432977, -73.9812457099107)",NY,10016.0,,/opportunities/5608,ongoing,0,August 09 2011,August 09 2011,approved,,,,,,
+278,30,0,237,,2.0,,,Lighthouse International,87,1,"111 59th Street
+New York, NY 10035
+(40.64358204145642, -74.02133897318058)",NY,10035.0,,/opportunities/5477,ongoing,0,June 17 2011,June 21 2011,approved,,,,,,
+279,6,0,3533,y,4.0,,,Chhaya Community Development Corporation,3369,1,"37 43 77th Street
+Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)",NY,11372.0,,/opportunities/5261,ongoing,0,April 11 2011,April 25 2011,approved,,,,,,
+280,100,0,105,,1.0,,,Friends of Van Cortlandt Park,161,1,"80 Van Cortlandt Park
+Bronx, NY 10463
+(40.88465843017383, -73.88990186467265)",NY,10463.0,,/opportunities/5711,onetime,0,September 01 2011,September 01 2011,approved,,,,,,
+281,1,0,157,,2.0,,,New York Legal Assistance Group,104,1,"7 Hanover Square
+New York, NY 10004
+(40.7043068313896, -74.00918226342714)",NY,10004.0,,/opportunities/5639,ongoing,0,August 16 2011,August 17 2011,approved,,,,,,
+282,2,0,163,,2.0,,,Metropolitan Council on Jewish Poverty,974,1,"Neptune Avenue
+Brooklyn, NY 11224
+(40.5776378129877, -73.99752264510208)",NY,11224.0,,/opportunities/5341,ongoing,0,May 06 2011,May 11 2011,approved,,,,,,
+283,15,0,228,,1.0,,,Stuyvesant Cove Park,38302,1,"24 20 FDR Drive Service Rd
+New York, NY 10010
+(40.73914078212147, -73.98289845639863)",NY,10010.0,,/opportunities/5157,onetime,0,March 04 2011,March 07 2011,approved,,,,,,
+284,1,0,459,,6.0,,,World Cares Center,36979,1,"520 8th Ave
+New York, NY 10018
+(40.75376054978079, -73.99232896859803)",NY,10018.0,,/opportunities/5115,ongoing,0,February 16 2011,February 22 2011,approved,,,,,,
+285,20,0,71,,6.0,,,World Cares Center,36979,1,"520 8th Avenue
+New York, NY 10018
+(40.75376054978079, -73.99232896859803)",NY,10018.0,,/opportunities/4992,onetime,0,January 12 2011,January 14 2011,approved,,,,,,
+286,99,0,57,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5423,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+287,2,0,216,,1.0,,,New York Futsal,39106,1,"233 77th Street
+New York, NY 10024
+(40.78255158071745, -73.98091585032279)",NY,10024.0,,/opportunities/5283,ongoing,0,April 13 2011,April 22 2011,approved,,,,,,
+288,10,0,147,,1.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5054,ongoing,0,January 28 2011,April 28 2011,approved,,,,,,
+289,10,0,80,,,,,Stuyvesant Cove Park,38302,1,"24 20 FDR Drive Service Rd
+New York, NY 10010
+(40.73914078212147, -73.98289845639863)",NY,10010.0,,/opportunities/5767,onetime,0,September 20 2011,September 21 2011,approved,,,,,,
+290,1,0,612,,1.0,,,"NY Artists Unlimited, Inc.",330,1,"212 14th St
+New York, NY 10011
+(40.73893072951762, -74.00056675838641)",NY,10011.0,,/opportunities/5139,ongoing,0,February 25 2011,February 28 2011,approved,,,,,,
+291,150,0,537,,3.0,,,PENCIL,2761,1,"30 26th Street
+New York, NY 10010
+(40.74435364135434, -73.99034146691326)",NY,10010.0,,/opportunities/5504,ongoing,0,July 06 2011,August 30 2011,approved,,,,,,
+292,20,0,141,,2.0,,,Yorkville Common Pantry,779,1,"8 109th Street
+New York, NY 10029
+(40.795965732615855, -73.94910755186987)",NY,10029.0,,/opportunities/5616,ongoing,0,August 11 2011,August 15 2011,approved,,,,,,
+293,2,0,192,,1.0,,,New York Futsal,39106,1,"233 77th Street
+New York, NY 10024
+(40.78255158071745, -73.98091585032279)",NY,10024.0,,/opportunities/5282,ongoing,0,April 13 2011,April 14 2011,approved,,,,,,
+294,25,0,109,,,,,NYC Service,3747,1,"101 31st St
+New York, NY 10001
+(40.74795702400355, -73.98923961872805)",NY,10001.0,,/opportunities/5774,ongoing,0,September 22 2011,September 22 2011,approved,,,,,,
+295,100,0,1679,y,5.0,,,"Body Sculpt Of New York, Inc.",1272,1,"487 49th St
+Brooklyn, NY 11203
+(40.649905213317076, -73.9311659847108)",NY,11203.0,,/opportunities/5205,onetime,0,March 16 2011,April 14 2011,approved,,,,,,
+296,5,0,314,,3.0,,,Metropolitan Council on Jewish Poverty,974,1,"Hillside Avenue
+Queens, NY 11432
+(40.71075497033968, -73.79303471029502)",NY,11432.0,,/opportunities/5141,ongoing,0,February 28 2011,September 19 2011,approved,,,,,,
+297,100,0,257,y,6.0,,,NYC Service,3747,1,"214 29th Street
+New York, NY 10001
+(40.748256698961484, -73.99386680926813)",NY,10001.0,,/opportunities/5700,ongoing,0,August 31 2011,September 01 2011,approved,,,,,,
+298,3,0,119,,1.0,,,Family and Community Support Services,38868,1,"1195 St Marks Ave
+Brooklyn, NY 11213
+(40.674130422885526, -73.92980967882666)",NY,11213.0,,/opportunities/5618,ongoing,0,August 11 2011,August 15 2011,approved,,,,,,
+299,20,0,120,,2.0,,,"Services for the UnderServed, Inc.",38951,2,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5285,onetime,0,April 13 2011,April 15 2011,approved,,,,,,
+300,10,0,953,,1.0,,,Habitat-NYC,39587,1,"111 John St
+New York, NY 10038
+(40.70770072454058, -74.00572695110161)",NY,10038.0,,/opportunities/5331,ongoing,0,April 27 2011,May 02 2011,approved,,,,,,
+301,15,0,409,,1.0,,,ARTs East New York Inc.,37775,1,"568 Jerome St
+Brooklyn, NY 11207
+(40.667188699215906, -73.88520654134761)",NY,11207.0,,/opportunities/5097,ongoing,0,February 11 2011,March 02 2011,approved,,,,,,
+302,10,0,339,,2.0,,,The Dialogue Project,4448,1,"420 8th Ave
+Brooklyn, NY 11215
+(40.66865562817529, -73.97684099566105)",NY,11215.0,,/opportunities/5392,ongoing,0,May 31 2011,June 02 2011,approved,,,,,,
+303,100,0,232,y,1.0,,,Friends of Van Cortlandt Park,161,1,"80 Van Cortlandt Park
+bronx, NY 10463
+(40.88465843017383, -73.88990186467265)",NY,10463.0,,/opportunities/5707,onetime,0,September 01 2011,September 12 2011,approved,,,,,,
+304,40,0,231,,1.0,,,Our Time,38118,1,"566 LaGuardia Place
+New York, NY 10003
+(40.72964073295498, -73.99760798891003)",NY,10003.0,,/opportunities/5140,onetime,0,February 25 2011,March 01 2011,approved,,,,,,
+305,1,0,392,,3.0,,,Girls Incorporated Of New York City,1166,1,"283 Adams Street
+Brooklyn, NY 11201
+(40.6949894054037, -73.98858815746328)",NY,11201.0,,/opportunities/4970,ongoing,0,January 06 2011,May 09 2011,approved,,,,,,
+306,22,0,200,,1.0,,,New York City Department of Parks & Recreation,3706,1,"80 30 Park Lane
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5167,onetime,0,March 08 2011,March 09 2011,approved,,,,,,
+307,5,0,650,,1.0,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5275,ongoing,0,April 12 2011,April 14 2011,approved,,,,,,
+308,10,0,396,,3.0,,,"""I Have a Dream"" Foundation - NY: Ravenswood Program",744,1,"1401 36th Ave
+Queens, NY 11106
+(40.76021383635026, -73.93744882217851)",NY,11106.0,,/opportunities/5512,ongoing,0,July 09 2011,July 14 2011,approved,,,,,,
+309,15,0,163,,3.0,,,Bike New York,38740,1,"475 Riverside Drive
+NYC, NY 10115
+(40.810551000428404, -73.96469400002803)",NY,10115.0,,/opportunities/5474,ongoing,0,June 16 2011,June 16 2011,approved,,,,,,
+310,4,0,324,,3.0,,,Episcopal Social Services NYC,42496,1,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5584,ongoing,0,August 02 2011,August 10 2011,approved,,,,,,
+311,100,0,280,,,,,The Grace Children's Foundation,45368,1,"697 End Avenue
+New York, NY 10025
+(40.79685012763133, -73.96372581059762)",NY,10025.0,,/opportunities/5515,ongoing,0,July 12 2011,July 14 2011,approved,,,,,,
+312,20,0,32,,1.0,,,Street Project,3001,1,"2090 Adam Clayton Powell Jr
+New York, NY 10027
+(40.8086819592997, -73.94868505900372)",NY,10027.0,,/opportunities/5345,onetime,0,May 10 2011,May 11 2011,approved,,,,,,
+313,20,0,352,,5.0,,,Police Athletic League Of New York,3067,2,"34 1
+New York, NY 10003
+(40.73194394755518, -73.98887214913032)",NY,10003.0,,/opportunities/5369,onetime,0,May 17 2011,May 18 2011,approved,,,,,,
+314,5,0,556,,1.0,,,Bideawee  ,152,1,"410 38th St
+New York, NY 10016
+(40.74602638032883, -73.9710330229442)",NY,10016.0,,/opportunities/5023,ongoing,0,January 21 2011,January 25 2011,approved,,,,,,
+315,500,0,324,,3.0,,,iMentor,614,1,"30 Broad Street
+New York, NY 10004
+(40.706177421210555, -74.01126869053508)",NY,10004.0,,/opportunities/5316,ongoing,0,April 21 2011,April 21 2011,approved,,,,,,
+316,1,0,601,,2.0,,,Pajama Program,2916,1,"34 39th Street
+New York, NY 10016
+(40.75053198369562, -73.97978342628932)",NY,10016.0,,/opportunities/5209,ongoing,0,March 17 2011,March 18 2011,approved,,,,,,
+317,20,0,84,,1.0,,,Office of Recycling Outreach and Education,36773,1,"51 Chambers Street
+New York, NY 10007
+(40.71377351801845, -74.0053942535769)",NY,10007.0,,/opportunities/5696,onetime,0,August 30 2011,September 06 2011,approved,,,,,,
+318,2,0,682,,1.0,,,Lifebeat Inc,37355,1,"1515 Broadway
+New York, NY 10036
+(40.75729656648954, -73.98573468333922)",NY,10036.0,,/opportunities/5043,ongoing,0,January 26 2011,January 28 2011,approved,,,,,,
+319,25,0,2498,y,3.0,,,Street Squash,1553,1,"40 116th St
+New York, NY 10026
+(40.80116061750394, -73.94770812030829)",NY,10026.0,,/opportunities/5231,ongoing,0,March 25 2011,June 30 2011,approved,,,,,,
+320,20,0,210,,1.0,,,Office of Recycling Outreach and Education,36773,1,"51 Chambers Street
+Brooklyn, NY 10007
+(40.71377351801845, -74.0053942535769)",NY,10007.0,,/opportunities/4967,onetime,0,January 05 2011,March 04 2011,approved,,,,,,
+321,1,0,465,,5.0,,,Episcopal Social Services NYC,42496,1,"305 7th Avenue between 27th and 28th Street
+New York, NY 10001
+(40.75025902143676, -73.99688630375988)",NY,10001.0,,/opportunities/5516,ongoing,0,July 12 2011,August 12 2011,approved,,,,,,
+322,1,0,761,,1.0,,,BCA,1250,1,"244 Madison Ave
+New York, NY 10016
+(40.75015809710567, -73.98126558278405)",NY,10016.0,,/opportunities/5460,ongoing,0,June 08 2011,August 03 2011,approved,,,,,,
+323,2,0,162,,,,,New York Legal Assistance Group,104,1,"7 Hanover Square
+New York, NY 10004
+(40.7043068313896, -74.00918226342714)",NY,10004.0,,/opportunities/5660,ongoing,0,August 19 2011,August 22 2011,approved,,,,,,
+324,8,0,150,,1.0,,,New York Asian Women's Center,24,1,"32 Broadway
+New York City, NY 10004
+(40.70604252290616, -74.01308532103428)",NY,10004.0,,/opportunities/5522,ongoing,0,July 15 2011,July 20 2011,approved,,,,,,
+325,1,0,172,,1.0,,,Big Apple Greeter,92,1,"1 Centre Street
+New York, NY 10007
+(40.71320112625938, -74.00400216853836)",NY,10007.0,,/opportunities/5127,ongoing,0,February 23 2011,February 24 2011,approved,,,,,,
+326,1000,0,28,,1.0,,,The New York City Anti-Violence Project,1982,1,"240 35th Street
+New York, NY 10001
+(40.75233062775419, -73.99168145673696)",NY,10001.0,,/opportunities/5064,onetime,0,February 02 2011,February 03 2011,approved,,,,,,
+327,99,0,162,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5457,ongoing,0,June 07 2011,June 08 2011,approved,,,,,,
+328,40,0,2203,y,2.0,,,TimeBanksNYC,36902,1,"2 Lafayette
+New York, NY 10007
+(40.7139025974422, -74.00349854820195)",NY,10007.0,,/opportunities/5147,ongoing,0,March 01 2011,May 31 2011,approved,,,,,,
+329,1,0,274,,2.0,,,Jewish Association for Services for the Aged (JASA),728,1,"9502 Seaview Avenue
+Brooklyn, NY 11206
+(40.6326745532508, -73.89124182389159)",NY,11206.0,,/opportunities/5159,ongoing,0,March 07 2011,March 07 2011,approved,,,,,,
+330,99,0,68,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5414,ongoing,0,June 06 2011,June 07 2011,approved,,,,,,
+331,5,0,322,,2.0,,,The Momentum Project,46019,1,"120 106th Street
+New York, NY 10029
+(40.79252132924364, -73.94694917899955)",NY,10029.0,,/opportunities/5523,ongoing,0,July 15 2011,July 15 2011,approved,,,,,,
+332,50,0,204,,1.0,,,Common Cents New York,2379,1,"570 Columbus Avenue
+New York, NY 10024
+(40.787638010624505, -73.97132979921389)",NY,10024.0,,/opportunities/5155,onetime,0,March 03 2011,March 03 2011,approved,,,,,,
+333,30,0,1368,y,4.0,,,New York City Department of Parks & Recreation,3706,1,"80 30 Park Lane
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5483,ongoing,0,June 22 2011,September 26 2011,approved,,,,,,
+334,4,0,826,,5.0,,,"Services for the UnderServed, Inc.",38951,1,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5298,ongoing,0,April 15 2011,August 18 2011,approved,,,,,,
+335,25,0,578,,3.0,,,Bronx One on One Mentoring Program,38920,1,"20 190th Street
+Bronx, NY 10468
+(40.86347541561016, -73.89958755848183)",NY,10468.0,,/opportunities/5263,ongoing,0,April 12 2011,May 09 2011,approved,,,,,,
+336,99,0,76,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5424,ongoing,0,June 06 2011,June 07 2011,approved,,,,,,
+337,50,0,1001,y,2.0,,,NYC Service,3747,1,"253 Broadway
+New York, NY 10007
+(40.713255085581125, -74.00706885665824)",NY,10007.0,,/opportunities/4985,onetime,0,January 11 2011,February 02 2011,approved,,,,,,
+338,25,0,286,,3.0,,,Learning Leaders,213,1,"1075 Second Avenue
+New York, NY 10022
+(40.75902153949972, -73.96552833602654)",NY,10022.0,,/opportunities/5521,ongoing,0,July 15 2011,July 15 2011,approved,,,,,,
+339,50,0,174,,1.0,,,Cystic Fibrosis Foundation,39041,1,"205 42nd Street
+New York, NY 10012
+(40.653499970602304, -74.01209486827952)",NY,10012.0,,/opportunities/5278,ongoing,0,April 13 2011,April 13 2011,approved,,,,,,
+340,600,0,456,,3.0,,,Student Sponsor Partners,40029,1,"286 Madison Avenue
+New York, NY 10017
+(40.75174378405803, -73.98009563619694)",NY,10017.0,,/opportunities/5377,ongoing,0,May 20 2011,May 23 2011,approved,,,,,,
+341,3,0,229,,1.0,,,Semiperm ,45305,1,"210 102nd Street
+New York, NY 10025
+(40.798057840007175, -73.96809269871837)",NY,10025.0,,/opportunities/5513,ongoing,0,July 11 2011,July 14 2011,approved,,,,,,
+342,99,0,58,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5448,ongoing,0,June 07 2011,June 08 2011,approved,,,,,,
+343,5,0,131,,2.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22 Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5699,ongoing,0,August 31 2011,September 01 2011,approved,,,,,,
+344,12,0,173,,4.0,,,Friends of Van Cortlandt Park,161,1,"80 Van Cortlandt Park
+Bronx, NY 10463
+(40.88465843017383, -73.88990186467265)",NY,10463.0,,/opportunities/5510,ongoing,0,July 07 2011,July 14 2011,approved,,,,,,
+345,250,0,153,y,6.0,,,NYC Service,3747,1,"Shore Front Parkway
+Queens, NY 11693
+(40.58491927250253, -73.81086259712633)",NY,11693.0,,/opportunities/5697,onetime,0,August 30 2011,September 01 2011,approved,,,,,,
+346,10,0,970,,1.0,,,WisdomLand After School and Summer Day Camp,38048,1,"132 03 Sanford Avenue
+Flushing, NY 11354
+(40.76862022064671, -73.82719028070687)",NY,11354.0,,/opportunities/5129,ongoing,0,February 23 2011,August 08 2011,approved,,,,,,
+347,10,0,305,,3.0,,,Transportation Alternatives,2308,1,"127 26th St
+New York, NY 10002
+(40.601149489516224, -73.99944293492823)",NY,10002.0,,/opportunities/5458,ongoing,0,June 07 2011,June 08 2011,approved,,,,,,
+348,6,0,212,,1.0,,,Children's Museum Of The Arts,1310,1,"182 Lafayette Street
+New York, NY 10013
+(40.72063851944171, -73.9985522770408)",NY,10013.0,,/opportunities/5544,onetime,0,July 21 2011,July 22 2011,approved,,,,,,
+349,100,0,59,,1.0,,,The Dream Big Foundation,1516,1,"852 JFK Station
+New York, NY 10116
+(40.8110019996426, -73.95309800037239)",NY,10116.0,,/opportunities/5778,onetime,0,September 23 2011,September 26 2011,approved,,,,,,
+350,2,0,298,,3.0,,,Girls Write Now,1111,1,"247 37 Street
+Manhattan, NY 10018
+(40.75350339905739, -73.99055236906513)",NY,10018.0,,/opportunities/5578,ongoing,0,August 01 2011,August 18 2011,approved,,,,,,
+351,5,0,170,,,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5270,ongoing,0,April 12 2011,July 25 2011,approved,,,,,,
+352,99,0,57,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5440,ongoing,0,June 07 2011,June 10 2011,approved,,,,,,
+353,5,0,528,,2.0,,,Miracle House,577,1,"80 8th ave
+New York, NY 10011
+(40.74000092273252, -74.00233842278413)",NY,10011.0,,/opportunities/5492,ongoing,0,June 29 2011,June 30 2011,approved,,,,,,
+354,100,0,362,,2.0,,,Friendly Visiting at the JCCGCI,37924,1,"3001 37th Street
+Brooklyn, NY 11224
+(40.573273749723825, -74.00249064003097)",NY,11224.0,,/opportunities/5116,ongoing,0,February 17 2011,July 12 2011,approved,,,,,,
+355,20,0,475,,3.0,,,FC Harlem,38393,1,"441 Manhattan Ave
+New York, NY 10026
+(40.80669464442542, -73.95561864336202)",NY,10026.0,,/opportunities/5233,ongoing,0,March 28 2011,March 29 2011,approved,,,,,,
+356,30,0,23,,1.0,,,New York Asian Women's Center,24,1,"39 Bowery
+New York City, NY 10002
+(40.71522597589217, -73.99658738386236)",NY,10002.0,,/opportunities/5310,onetime,0,April 20 2011,April 20 2011,approved,,,,,,
+357,25,0,156,,3.0,,,"Top Honors, Inc",358,1,"154 93rd St
+New York, NY 10025
+(40.79156776872092, -73.97053578315399)",NY,10025.0,,/opportunities/5731,ongoing,0,September 12 2011,September 22 2011,approved,,,,,,
+358,99,0,26,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5427,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+359,10,0,240,,1.0,,,Pace University Community & Volunteer Mobilization AmeriCorps,4019,1,"41 Park Row
+New York, NY 10038
+(40.71182840349377, -74.00632180417499)",NY,10038.0,,/opportunities/5698,onetime,0,August 31 2011,September 01 2011,approved,,,,,,
+360,2,0,58,,3.0,,,Up2Us,37687,1,"10 27 46th Ave
+Long Island City, NY 11101
+(40.74570244980828, -73.93866902925225)",NY,11101.0,,/opportunities/5149,ongoing,0,March 01 2011,March 08 2011,approved,,,,,,
+361,5,0,341,,1.0,,,The Jewish Museum,37348,1,"1109 Fifth Avenue
+New York, NY 10128
+(40.78553359707598, -73.95746225352207)",NY,10128.0,,/opportunities/5049,ongoing,0,January 27 2011,January 28 2011,approved,,,,,,
+362,5,0,65,,2.0,,,"Jewish Home Lifecare, Manhattan Division",2694,1,"120 106th Street
+New York, NY 10025
+(40.7994834845182, -73.96352009942227)",NY,10025.0,,/opportunities/5744,ongoing,0,September 14 2011,September 16 2011,approved,,,,,,
+363,20,0,952,,1.0,,,Bideawee  ,152,1,"410 38th Street
+New York, NY 10016
+(40.74602638032883, -73.9710330229442)",NY,10016.0,,/opportunities/5024,ongoing,0,January 21 2011,January 21 2011,approved,,,,,,
+364,25,0,193,,4.0,,,Friends of Hudson River Park,429,1,"54 New
+York, NY 10014
+(40.73358645135369, -74.01019960472792)",NY,10014.0,,/opportunities/5470,onetime,0,June 13 2011,June 15 2011,approved,,,,,,
+365,10,0,209,,1.0,,,PortSide NewYork,3422,1,"25 New
+York, NY 10013
+(40.721242188776046, -74.00888900022716)",NY,10013.0,,/opportunities/5724,ongoing,0,September 07 2011,September 13 2011,approved,,,,,,
+366,10,0,28,,3.0,,,Iridescent,38544,1,"890 Garrison Ave
+Bronx, NY 10474
+(40.817114194167054, -73.89198548226072)",NY,10474.0,,/opportunities/5195,onetime,0,March 15 2011,March 15 2011,approved,,,,,,
+367,34,0,0,,1.0,,,New York City Department of Parks & Recreation,3706,1,"80 30 Park Lane
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5170,onetime,0,March 08 2011,March 09 2011,approved,,,,,,
+368,2,0,524,,,,,Brooklyn Community Board No. 1,42438,1,"1 Brooklyn
+NY 11211
+(40.711589765255496, -73.95817675075642)",NY,11211.0,,/opportunities/5498,ongoing,0,June 30 2011,July 01 2011,approved,,,,,,
+369,1,0,70,,2.0,,,New York Asian Women's Center,24,1,"32 Broadway
+New York, NY 10004
+(40.70604252290616, -74.01308532103428)",NY,10004.0,,/opportunities/5635,ongoing,0,August 16 2011,August 19 2011,approved,,,,,,
+370,2,0,367,,2.0,,,Greater Chinatown Community Association,1232,1,"105 Mosco Street
+New York, NY 10013
+(40.714478163541, -73.99923576178304)",NY,10013.0,,/opportunities/5259,ongoing,0,April 11 2011,June 18 2011,approved,,,,,,
+371,2011,0,4070,y,2.0,,,TimeBanksNYC,36902,1,"5 Boroughs
+New York, NY 10007
+(40.71363051943297, -74.00913138370635)",NY,10007.0,,/opportunities/5020,ongoing,0,January 20 2011,March 21 2011,approved,,,,,,
+372,12,0,31,,2.0,,,Carter Burden Center for the Aging,24345,1,"1484 First Avenue
+New York, NY 10075
+(40.77130632257246, -73.95343329083079)",NY,10075.0,,/opportunities/5764,ongoing,0,September 20 2011,September 21 2011,approved,,,,,,
+373,5,0,154,,1.0,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5273,ongoing,0,April 12 2011,April 14 2011,approved,,,,,,
+374,20,0,27,,,,,Street Project,3001,1,"441 Manhattan Avenue
+New York, NY 10026
+(40.80669464442542, -73.95561864336202)",NY,10026.0,,/opportunities/5346,onetime,0,May 10 2011,May 11 2011,approved,,,,,,
+375,5,0,466,,3.0,,,WisdomLand After School and Summer Day Camp,38048,1,"132 03 Sanford Avenue
+Flushing, NY 11354
+(40.76862022064671, -73.82719028070687)",NY,11354.0,,/opportunities/5128,ongoing,0,February 23 2011,July 08 2011,approved,,,,,,
+376,10,0,522,,3.0,,,Metropolitan Council on Jewish Poverty,974,1,"80 Maiden Lane
+New York, NY 10038
+(40.70722063476455, -74.00745556513084)",NY,10038.0,,/opportunities/5216,ongoing,0,March 21 2011,March 21 2011,approved,,,,,,
+377,25,0,76,,1.0,,,Lexington School and Center for the Deaf,38253,1,"26 26 75th St
+Jackson Heights, NY 11370
+(40.75935377085989, -73.89184400040028)",NY,11370.0,,/opportunities/5311,onetime,0,April 20 2011,April 21 2011,approved,,,,,,
+378,100,0,237,,1.0,,,NYC Service,3747,1,"five boroughs
+New York, NY 10007
+(40.71363051943297, -74.00913138370635)",NY,10007.0,,/opportunities/5518,ongoing,0,July 14 2011,July 26 2011,approved,,,,,,
+379,99,0,54,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5417,ongoing,0,June 06 2011,June 07 2011,approved,,,,,,
+380,50,0,550,,5.0,,,Bike New York,38740,1,"475 Riverside Drive
+New York City, NY 11205
+(40.693882095282504, -73.96433450773128)",NY,11205.0,,/opportunities/5222,ongoing,0,March 22 2011,March 23 2011,approved,,,,,,
+381,5,0,542,,1.0,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5277,ongoing,0,April 12 2011,April 14 2011,approved,,,,,,
+382,4,0,73,,1.0,,,Police Athletic League Of New York,3067,1,"34 1 2 East 12th Street
+New York, NY 10003
+(40.734434119371144, -73.99401070079284)",NY,10003.0,,/opportunities/5359,onetime,0,May 12 2011,May 13 2011,approved,,,,,,
+383,100,0,168,,4.0,,,US Fund for UNICEF,35469,1,"125 Maiden Lane
+New York, NY 10038
+(40.706178049016415, -74.00602267255746)",NY,10038.0,,/opportunities/5284,ongoing,0,April 13 2011,April 14 2011,approved,,,,,,
+384,100,0,2953,,,,,JBFCS,1891,12,"135 50th Street
+New York, NY 10020
+(40.76073029550787, -73.98236448051341)",NY,10020.0,,/opportunities/4982,ongoing,0,January 11 2011,September 23 2011,approved,,,,,,
+385,99,0,55,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5445,ongoing,0,June 07 2011,June 10 2011,approved,,,,,,
+386,6,0,10,,1.0,,,YWCA of Brooklyn,34656,1,"30 Third Avenue
+Brooklyn, NY 11217
+(40.685876893530235, -73.98037041156317)",NY,11217.0,,/opportunities/5229,onetime,0,March 24 2011,April 14 2011,approved,,,,,,
+387,4,0,230,,1.0,,,Artists Striving To End Poverty,2250,1,"165 46th Street
+New York, NY 10036
+(40.7586085621595, -73.98506333562563)",NY,10036.0,,/opportunities/5114,ongoing,0,February 15 2011,February 22 2011,approved,,,,,,
+388,99,0,36,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5415,ongoing,0,June 06 2011,June 08 2011,approved,,,,,,
+389,2,0,114,,2.0,,,"Services for the UnderServed, Inc.",38951,1,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5266,ongoing,0,April 12 2011,April 14 2011,approved,,,,,,
+390,5,0,551,,,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5288,ongoing,0,April 14 2011,April 18 2011,approved,,,,,,
+391,50,0,129,,1.0,,,Friends of Van Cortlandt Park,161,1,"124 Gale Pl
+Bronx, NY 10463
+(40.88463029202243, -73.89251933209881)",NY,10463.0,,/opportunities/5011,onetime,0,January 14 2011,March 15 2011,approved,,,,,,
+392,99,0,43,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5441,ongoing,0,June 07 2011,June 10 2011,approved,,,,,,
+393,20,0,251,,1.0,,,New York City Department of Parks & Recreation,3706,1,"80 30 Park Lane
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5186,onetime,0,March 11 2011,March 11 2011,approved,,,,,,
+394,1,0,385,,1.0,,,"Spoons Across America dba Farm to Table, Inc.",37389,1,"540 President Street
+Brooklyn, NY 11215
+(40.6773834625823, -73.98508745696203)",NY,11215.0,,/opportunities/5047,ongoing,0,January 27 2011,January 28 2011,approved,,,,,,
+395,1,0,26,,1.0,,,Chelsea Opera,3182,1,"277 New
+York, NY 10113-0277
+(40.741242999564804, -73.99834000029074)",NY,,,/opportunities/5217,ongoing,0,March 21 2011,March 21 2011,approved,,,,,,
+396,12,0,66,,,,,American Diabetes Association,39913,1,"333 Seventh Avenue
+New York, NY 10001
+(40.747492275236596, -73.99319231774615)",NY,10001.0,,/opportunities/5357,onetime,0,May 12 2011,June 01 2011,approved,,,,,,
+397,99,0,74,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5410,ongoing,0,June 06 2011,June 08 2011,approved,,,,,,
+398,15,0,192,,5.0,,,Jewish Association for Services for the Aged (JASA),728,1,"132 31st Street
+New York, NY 10001
+(40.74849052268911, -73.99056629742063)",NY,10001.0,,/opportunities/5561,ongoing,0,July 27 2011,September 09 2011,approved,,,,,,
+399,25,0,857,y,6.0,,,NYC Service,3747,1,"253 Broadway
+New York, NY 10007
+(40.713255085581125, -74.00706885665824)",NY,10007.0,,/opportunities/5679,ongoing,0,August 27 2011,August 30 2011,approved,,,,,,
+400,1,0,216,,1.0,,,National Multiple Sclerosis Society NYC Chapter,545,1,"733 Third Avenue
+New York, NY 10017
+(40.753095051479136, -73.9727597212405)",NY,10017.0,,/opportunities/5025,ongoing,0,January 21 2011,January 21 2011,approved,,,,,,
+401,1,0,87,,1.0,,,Hospital Audiences Inc. (HAI),3094,1,"548 Broadway
+New York, NY 10012
+(40.723633146495736, -73.99822304358818)",NY,10012.0,,/opportunities/5675,onetime,0,August 24 2011,August 25 2011,approved,,,,,,
+402,30,0,244,,3.0,,,In Arms Reach Inc,37042,1,"160 CONVENT AVE
+New York City, NY 10031
+(40.81951334804657, -73.95002324608663)",NY,10031.0,,/opportunities/5072,ongoing,0,February 03 2011,April 27 2011,approved,,,,,,
+403,1,0,337,,5.0,,,New York Cares,666,1,"214 29th St
+New York, NY 10001
+(40.748256698961484, -73.99386680926813)",NY,10001.0,,/opportunities/5577,ongoing,0,August 01 2011,August 01 2011,approved,,,,,,
+404,2,0,59,,1.0,,,Girl Scouts NYC,44253,1,"40 Tremont Ave
+Bronx, NY 10453
+(40.851398678685044, -73.90858151296997)",NY,10453.0,,/opportunities/5567,ongoing,0,July 29 2011,August 22 2011,approved,,,,,,
+405,15,0,898,,,,,Citymeals-on-Wheels,101,1,"355 Lexington Ave
+New York, NY 10017
+(40.75016951126717, -73.97694147468593)",NY,10017.0,,/opportunities/5166,ongoing,0,March 08 2011,March 09 2011,approved,,,,,,
+406,5,0,662,,1.0,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5291,ongoing,0,April 14 2011,April 18 2011,approved,,,,,,
+407,150,0,281,,3.0,,,Common Cents New York,2379,1,"570 Columbus Avenue
+New York, NY 10024
+(40.787638010624505, -73.97132979921389)",NY,10024.0,,/opportunities/5525,onetime,0,July 18 2011,July 18 2011,approved,,,,,,
+408,3,0,145,,1.0,,,Big Apple Basketball,36124,1,"55 Lexington Avenue
+New York, NY 10010
+(40.74055729531126, -73.98392283234197)",NY,10010.0,,/opportunities/5125,ongoing,0,February 23 2011,February 23 2011,approved,,,,,,
+409,1,0,94,,1.0,,,Coney Island Lighthouse Mission,2068,1,"2114 Mermaid Ave
+Brooklyn, NY 11224
+(40.576224014939264, -73.9881199499576)",NY,11224.0,,/opportunities/5673,ongoing,0,August 24 2011,August 25 2011,approved,,,,,,
+410,10,0,233,,2.0,,,Jewish Association for Services for the Aged (JASA),728,1,"132 31st Street
+New York, NY 10001
+(40.74849052268911, -73.99056629742063)",NY,10001.0,,/opportunities/5084,ongoing,0,February 07 2011,August 16 2011,approved,,,,,,
+411,15,0,501,,2.0,,,NYC Department Of Consumer Affairs Office Of Financial Empowerment,119,1,"42 Broadway
+NY, NY 10004
+(40.7062044008714, -74.01295941595015)",NY,10004.0,,/opportunities/5303,onetime,0,April 18 2011,April 18 2011,approved,,,,,,
+412,1,0,173,,2.0,,,Jewish Association for Services for the Aged (JASA),728,1,"2075 68th Street
+Brooklyn, NY 11234
+(40.61878522290015, -73.91010666655434)",NY,11234.0,,/opportunities/5158,ongoing,0,March 07 2011,March 07 2011,approved,,,,,,
+413,50,0,162,,1.0,,,"The Puppetry Arts Theatre, Inc",999,1,"4th St
+Brooklyn, NY 11215
+(40.66536245344844, -73.99280367092406)",NY,11215.0,,/opportunities/5244,onetime,0,April 04 2011,April 07 2011,approved,,,,,,
+414,15,0,1305,,,,,Bellevue Hospital,264,1,"27th Street
+New York, NY 10016
+(40.74271237865085, -73.98454533643442)",NY,10016.0,,/opportunities/5215,ongoing,0,March 21 2011,March 21 2011,approved,,,,,,
+415,100,0,28,,1.0,,,Child Development Support Corp,36959,1,"352 358 Classon Avenue
+Brooklyn, NY 11238
+(40.67886241346963, -73.9638204696389)",NY,11238.0,,/opportunities/4989,ongoing,0,January 12 2011,January 12 2011,approved,,,,,,
+416,1,0,182,,1.0,,,New York Asian Women's Center,24,1,"32 Broadway
+New York, NY 10004
+(40.70604252290616, -74.01308532103428)",NY,10004.0,,/opportunities/5622,ongoing,0,August 12 2011,August 15 2011,approved,,,,,,
+417,99,0,89,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5408,ongoing,0,June 06 2011,June 08 2011,approved,,,,,,
+418,1,0,220,,1.0,,,FEGS,2833,1,"80 VanDam Street
+New York, NY 10013
+(40.72662250912646, -74.00806457272058)",NY,10013.0,,/opportunities/5741,ongoing,0,September 14 2011,September 19 2011,approved,,,,,,
+419,1,0,155,,2.0,,,FEGS,2833,1,"130 59th Street
+New York, NY 10022
+(40.7623940412621, -73.9685868670245)",NY,10022.0,,/opportunities/5656,ongoing,0,August 19 2011,August 19 2011,approved,,,,,,
+420,4,0,310,,1.0,,,entrepreneurshipEDGE,39403,1,"1430 Broadway
+New York, NY 10018
+(40.7539853802881, -73.9869780025237)",NY,10018.0,,/opportunities/5503,ongoing,0,July 06 2011,July 06 2011,approved,,,,,,
+421,15,0,68,,1.0,,,New York City Hemophilia Chapter,39862,1,"358 Fifth Avenue
+New York, NY 10001
+(40.74863441421377, -73.98441493474019)",NY,10001.0,,/opportunities/5349,onetime,0,May 10 2011,May 11 2011,approved,,,,,,
+422,5,0,231,,5.0,,,New York Methodist Hospital,2285,1,"506 Sixth Street
+Brooklyn, NY 11215
+(40.66834080066649, -73.97936760962226)",NY,11215.0,,/opportunities/5648,ongoing,0,August 17 2011,August 19 2011,approved,,,,,,
+423,100,0,152,,2.0,,,Friendly Visiting at the JCCGCI,37924,1,"3001 37th Street
+Brooklyn, NY 11224
+(40.573273749723825, -74.00249064003097)",NY,11224.0,,/opportunities/5569,ongoing,0,August 01 2011,August 01 2011,approved,,,,,,
+424,1,0,97,,5.0,,,Up2Us,37687,1,"791 Empire Blvd
+Brooklyn, NY 11213
+(40.663684048666546, -73.93536510198723)",NY,11213.0,,/opportunities/5202,ongoing,0,March 15 2011,March 22 2011,approved,,,,,,
+425,3,0,196,,3.0,,,"QSAC, Inc. (Quality Services for the Autism Community)",38735,1,"253 35th Street
+New York, NY 10001
+(40.75251948538039, -73.99214910419215)",NY,10001.0,,/opportunities/5600,ongoing,0,August 04 2011,August 04 2011,approved,,,,,,
+426,1,0,204,,1.0,,,Up2Us,37687,1,"791 Empire Blvd
+Brooklyn, NY 11213
+(40.663684048666546, -73.93536510198723)",NY,11213.0,,/opportunities/5111,ongoing,0,February 15 2011,March 01 2011,approved,,,,,,
+427,1,0,115,,3.0,,,New York Legal Assistance Group,104,1,"7 Hanover Square
+New York, NY 10004
+(40.7043068313896, -74.00918226342714)",NY,10004.0,,/opportunities/5632,ongoing,0,August 16 2011,August 17 2011,approved,,,,,,
+428,200,0,345,,1.0,,,Governors Island Alliance,3862,1,"4 Irving Place
+New York, NY 10003
+(40.734106908087384, -73.98864446892128)",NY,10003.0,,/opportunities/5348,ongoing,0,May 10 2011,May 11 2011,approved,,,,,,
+429,4,0,133,,2.0,,,Episcopal Social Services NYC,42496,1,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5730,ongoing,0,September 09 2011,September 13 2011,approved,,,,,,
+430,20,0,56,,1.0,,,MASBIA,37295,1,"1372 Coney Island Ave
+Brooklyn, NY 11230
+(40.62409891619836, -73.96513223562873)",NY,11230.0,,/opportunities/5176,ongoing,0,March 09 2011,March 09 2011,approved,,,,,,
+431,10,0,74,,,,,The Lenox Hill Neighborhood House,2138,1,"331 70th Street
+New York, NY 10021
+(40.76689065140857, -73.95789392809615)",NY,10021.0,,/opportunities/4978,onetime,0,January 10 2011,January 12 2011,approved,,,,,,
+432,5,0,66,,2.0,,,"Services for the UnderServed, Inc.",38951,1,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5735,ongoing,0,September 13 2011,September 14 2011,approved,,,,,,
+433,100,0,1180,,1.0,,,New York City Department of Parks & Recreation,3706,1,"830 Fifth Avenue
+New York, NY 10065
+(40.76737436501733, -73.97069062911662)",NY,10065.0,,/opportunities/4980,onetime,0,January 11 2011,January 12 2011,approved,,,,,,
+434,50,0,1396,y,4.0,,,Earth Day New York,1208,1,"201 42nd Street
+New York, NY 10017
+(40.75079056486506, -73.97443173060336)",NY,10017.0,,/opportunities/5253,ongoing,0,April 07 2011,April 08 2011,approved,,,,,,
+435,40,0,94,,,,,American Diabetes Association,39913,1,"333 Seventh Avenue
+New York, NY 10001
+(40.747492275236596, -73.99319231774615)",NY,10001.0,,/opportunities/5356,onetime,0,May 12 2011,June 01 2011,approved,,,,,,
+436,10,0,30,,,,,entrepreneurshipEDGE,39403,1,"1430 Broadway
+New York, NY 10018
+(40.7539853802881, -73.9869780025237)",NY,10018.0,,/opportunities/5760,ongoing,0,September 16 2011,September 19 2011,approved,,,,,,
+437,4,0,201,,5.0,,,Metropolitan Council on Jewish Poverty,974,1,"80 Maiden Lane
+New York, NY 10038
+(40.70722063476455, -74.00745556513084)",NY,10038.0,,/opportunities/5172,ongoing,0,March 08 2011,May 06 2011,approved,,,,,,
+438,15,0,235,,5.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5646,ongoing,0,August 17 2011,August 19 2011,approved,,,,,,
+439,10,0,306,,2.0,,,Metropolitan Council on Jewish Poverty,974,1,"80 Maiden Lane
+New York, NY 10038
+(40.70722063476455, -74.00745556513084)",NY,10038.0,,/opportunities/5201,ongoing,0,March 15 2011,March 21 2011,approved,,,,,,
+440,1,0,766,,1.0,,,Chelsea Art Museum,2989,1,"556 22nd Street
+New York, NY 10011
+(40.7476971546152, -74.00637234980138)",NY,10011.0,,/opportunities/5461,ongoing,0,June 08 2011,June 09 2011,approved,,,,,,
+441,10,0,417,,2.0,,,Paws of Hope foundation,38762,1,"934 New
+York, NY 10156
+(40.74681900039661, -73.97679400044274)",NY,10156.0,,/opportunities/5228,ongoing,0,March 23 2011,March 23 2011,approved,,,,,,
+442,5,0,582,,1.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5256,ongoing,0,April 08 2011,April 14 2011,approved,,,,,,
+443,100,0,464,,3.0,,,New York Needs You,37019,1,"40 WORTH ST
+New York, NY 10013
+(40.717284048272404, -74.00672711428712)",NY,10013.0,,/opportunities/5000,ongoing,0,January 14 2011,March 07 2011,approved,,,,,,
+444,1,0,25,,2.0,,,New York City Coalition Against Hunger,3671,1,"50 Broad Street
+New York, NY 10004
+(40.705530442636864, -74.0115002665583)",NY,10004.0,,/opportunities/5152,ongoing,0,March 02 2011,March 10 2011,approved,,,,,,
+445,5,0,32,,1.0,,,Jewish Association for Services for the Aged (JASA),728,1,"132 31st Street
+New York, NY 10001
+(40.74849052268911, -73.99056629742063)",NY,10001.0,,/opportunities/4993,onetime,0,January 13 2011,January 14 2011,approved,,,,,,
+446,1,0,295,,2.0,,,Turtle Bay Music School,33503,1,"244 52nd Street
+New York, NY 10022
+(40.756624229687965, -73.96884239322272)",NY,10022.0,,/opportunities/5251,ongoing,0,April 06 2011,April 07 2011,approved,,,,,,
+447,10,0,137,,2.0,,,Jewish Association for Services for the Aged (JASA),728,1,"132 31st Street
+New York, NY 10001
+(40.74849052268911, -73.99056629742063)",NY,10001.0,,/opportunities/5220,ongoing,0,March 22 2011,July 13 2011,approved,,,,,,
+448,20,0,133,,1.0,,,American Liver Foundation,38926,1,"39 Broadway
+New York, NY 10006
+(40.70625429589656, -74.01296358496856)",NY,10006.0,,/opportunities/5315,onetime,0,April 21 2011,April 21 2011,approved,,,,,,
+449,20,0,127,,1.0,,,African Cultural Center Inc.,48349,1,"111 14th Street
+New York, NY 10003
+(40.73420096837262, -73.98926385518747)",NY,10003.0,,/opportunities/5555,ongoing,0,July 24 2011,July 25 2011,approved,,,,,,
+450,500,0,206,,3.0,,,iMentor,614,1,"30 Broad St
+New York, NY 10004
+(40.706177421210555, -74.01126869053508)",NY,10004.0,,/opportunities/5296,ongoing,0,April 15 2011,April 18 2011,approved,,,,,,
+451,50,0,174,,1.0,,,American Cancer Society-Making Strides Against Breast Cancer,49480,1,"132 32nd Street
+New York, NY 10001
+(40.74868428617484, -73.98921741350024)",NY,10001.0,,/opportunities/5594,ongoing,0,August 03 2011,August 04 2011,approved,,,,,,
+452,99,0,27,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5428,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+453,1000,0,350,y,6.0,,,Memorial Sloan-Kettering Cancer Center,3587,1,"1250 First Avenue
+New York, NY 10065
+(40.76491214294413, -73.95810077216288)",NY,10065.0,,/opportunities/5693,ongoing,0,August 30 2011,August 31 2011,approved,,,,,,
+454,1,0,79,,,,,"Afro-Asian, Inc.",34605,1,"107 Suffolk St
+New York, NY 10002
+(40.719521874540526, -73.98583731954874)",NY,10002.0,,/opportunities/5580,ongoing,0,August 01 2011,August 02 2011,approved,,,,,,
+455,3,0,1348,,4.0,,,Isabella Geriatric Center,1436,1,"515 Audubon Avenue
+New York, NY 10040
+(40.85474542045091, -73.92794650452043)",NY,10040.0,,/opportunities/5241,ongoing,0,April 01 2011,April 01 2011,approved,,,,,,
+456,4,0,96,,1.0,,,Ubuntu Education Fund,52527,1,"32 Broadway
+New York, NY 10004
+(40.70604252290616, -74.01308532103428)",NY,10004.0,,/opportunities/5751,ongoing,0,September 15 2011,September 16 2011,approved,,,,,,
+457,20,0,372,,1.0,,,September Concert,4209,1,"601 57th Street
+New York, NY 10019
+(40.770388783849285, -73.99149741362523)",NY,10019.0,,/opportunities/5690,ongoing,0,August 30 2011,August 31 2011,approved,,,,,,
+458,5,0,1420,,2.0,,,"New York City Family Justice Center, Queens",39303,1,"126 02 82nd Avenue
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5299,ongoing,0,April 15 2011,April 18 2011,approved,,,,,,
+459,25,0,136,y,6.0,,,NYC Service,3747,1,"253 Broadway
+New York, NY 10007
+(40.713255085581125, -74.00706885665824)",NY,10007.0,,/opportunities/5678,ongoing,0,August 27 2011,August 28 2011,approved,,,,,,
+460,25,0,256,y,6.0,,,NYC Service,3747,1,"253 Broadway
+New York, NY 10007
+(40.713255085581125, -74.00706885665824)",NY,10007.0,,/opportunities/5677,ongoing,0,August 27 2011,August 30 2011,approved,,,,,,
+461,5,0,193,,,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5269,ongoing,0,April 12 2011,April 19 2011,approved,,,,,,
+462,99,0,80,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5421,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+463,5,0,241,,3.0,,,Bike New York,38740,1,"475 Riverside Drive
+New York City, NY 10115
+(40.810551000428404, -73.96469400002803)",NY,10115.0,,/opportunities/5463,ongoing,0,June 09 2011,June 09 2011,approved,,,,,,
+464,10,0,546,,3.0,,,Girls Incorporated Of New York City,1166,1,"283 Adams Street
+Brooklyn, NY 11201
+(40.6949894054037, -73.98858815746328)",NY,11201.0,,/opportunities/5344,ongoing,0,May 09 2011,June 08 2011,approved,,,,,,
+465,50,0,172,,1.0,,,Friends of Van Cortlandt Park,161,1,"124 Gale Pl
+Bronx, NY 10463
+(40.88463029202243, -73.89251933209881)",NY,10463.0,,/opportunities/5009,onetime,0,January 14 2011,January 25 2011,approved,,,,,,
+466,120,0,332,,1.0,,,NATIONAL SEPTEMBER 11 MEMORIAL & MUSEUM                                      ,42021,1,"1 Liberty St
+New York, NY 10006
+(40.7091849032636, -74.01057253131532)",NY,10006.0,,/opportunities/5560,ongoing,0,July 27 2011,August 10 2011,approved,,,,,,
+467,50,0,981,y,3.0,,,New York City Children's Services,50221,1,"29 Fort Greene Place
+Brooklyn, NY 11217
+(40.68897153307231, -73.97689848785359)",NY,11217.0,,/opportunities/5652,ongoing,0,August 17 2011,September 02 2011,approved,,,,,,
+468,6,0,4192,y,3.0,,,Counseling in Schools,37581,1,"65 95th Street
+New York, NY 10025
+(40.79190979026373, -73.96735479584436)",NY,10025.0,,/opportunities/5087,ongoing,0,February 08 2011,February 08 2011,approved,,,,,,
+469,2,0,94,,1.0,,,Episcopal Social Services NYC,42496,1,"305 7th Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5582,ongoing,0,August 02 2011,August 17 2011,approved,,,,,,
+470,12,0,308,,,,,The Lenox Hill Neighborhood House,2138,1,"331 70th Street
+New York, NY 10021
+(40.76689065140857, -73.95789392809615)",NY,10021.0,,/opportunities/5563,ongoing,0,July 28 2011,July 29 2011,approved,,,,,,
+471,1,0,263,,1.0,,,Big Apple Greeter,92,1,"1 Centre Street
+New York, NY 10007
+(40.71320112625938, -74.00400216853836)",NY,10007.0,,/opportunities/5095,ongoing,0,February 10 2011,February 11 2011,approved,,,,,,
+472,10,0,286,,2.0,,,Dress for Success - Bronx Branch,49954,1,"2038 Davidson Avenue
+Bronx, NY 10453
+(40.85374837851653, -73.90853996733885)",NY,10453.0,,/opportunities/5612,ongoing,0,August 10 2011,August 10 2011,approved,,,,,,
+473,9999,0,378,,1.0,,,Catchafire,39853,1,"118 28th Street
+New York, NY 10016
+(40.742887997159826, -73.98310079513675)",NY,10016.0,,/opportunities/5352,ongoing,0,May 11 2011,June 06 2011,approved,,,,,,
+474,100,0,422,,1.0,,,DOROT,397,1,"171 85th Street
+New York, NY 10024
+(40.786855600459035, -73.97516990427897)",NY,10024.0,,/opportunities/5491,ongoing,0,June 28 2011,August 23 2011,approved,,,,,,
+475,3,0,77,,5.0,,,Police Athletic League Of New York,3067,1,"985 Rockaway Avenue
+Brooklyn, NY 11212
+(40.656451255408264, -73.90732282830548)",NY,11212.0,,/opportunities/5647,ongoing,0,August 17 2011,August 18 2011,approved,,,,,,
+476,2,0,29,y,5.0,,,New York City Department of Parks & Recreation,3706,1,"1234 5th Avenue
+New York, NY 10029
+(40.793325183462535, -73.95176754309219)",NY,10029.0,,/opportunities/5753,ongoing,0,September 16 2011,September 16 2011,approved,,,,,,
+477,3,0,81,,2.0,,,Part of the Solution (POTS),46,1,"2763 Webster Ave
+Bronx, NY 10458
+(40.86579443967629, -73.88632317887395)",NY,10458.0,,/opportunities/5747,ongoing,0,September 15 2011,September 15 2011,approved,,,,,,
+478,15,0,676,,1.0,,,No Doubt Inc.,38358,1,"61 43 186th Street
+Fresh Meadow, NY 11365
+(40.73987184371066, -73.79462153515567)",NY,11365.0,,/opportunities/5164,ongoing,0,March 08 2011,March 09 2011,approved,,,,,,
+479,99,0,28,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5432,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+480,100,0,215,,1.0,,,Best Buddies New York,38180,1,"113 82nd Street
+New York, NY 10024
+(40.78430152589584, -73.97499903309341)",NY,10024.0,,/opportunities/5162,onetime,0,March 07 2011,March 11 2011,approved,,,,,,
+481,15,0,280,,1.0,,,ARTs East New York Inc.,37775,1,"568 Jerome St
+Brooklyn, NY 11207
+(40.667188699215906, -73.88520654134761)",NY,11207.0,,/opportunities/5099,ongoing,0,February 11 2011,March 02 2011,approved,,,,,,
+482,20,0,128,y,2.0,,,Heights and Hills,38496,1,"57 Willoughby Street
+Brooklyn, NY 11201
+(40.692238836414404, -73.98662013867026)",NY,11201.0,,/opportunities/5766,ongoing,0,September 20 2011,September 21 2011,approved,,,,,,
+483,15,0,115,,4.0,,,Stuyvesant Cove Park,38302,1,"24 20 FDR Drive Service Rd
+New York, NY 10010
+(40.73914078212147, -73.98289845639863)",NY,10010.0,,/opportunities/5727,onetime,0,September 08 2011,September 08 2011,approved,,,,,,
+484,10,0,1240,y,3.0,,,"""I Have a Dream"" Foundation - NY: Ravenswood Program",744,1,"1401 36th Ave
+Astoria, NY 11106
+(40.76021383635026, -73.93744882217851)",NY,11106.0,,/opportunities/4997,ongoing,0,January 13 2011,January 14 2011,approved,,,,,,
+485,2,0,290,,1.0,,,"Going Coastal, Inc.",989,1,"230 Sackett Street
+Brooklyn, NY 11231
+(40.68392768175474, -73.99871220556926)",NY,11231.0,,/opportunities/5255,ongoing,0,April 08 2011,April 08 2011,approved,,,,,,
+486,20,0,260,,2.0,,,The Dialogue Project,4448,1,"420 8th Ave
+Brooklyn, NY 11238
+(40.66865562817529, -73.97684099566105)",NY,11238.0,,/opportunities/5382,ongoing,0,May 24 2011,May 24 2011,approved,,,,,,
+487,2,0,308,,1.0,,,Episcopal Social Services NYC,42496,1,"305 7th Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5581,ongoing,0,August 02 2011,September 21 2011,approved,,,,,,
+488,20,0,296,,1.0,,,SCOPE,37871,1,"15 36th Street
+New York, NY 10018
+(40.750181248104184, -73.98472070423014)",NY,10018.0,,/opportunities/5113,onetime,0,February 15 2011,February 22 2011,approved,,,,,,
+489,15,0,261,,1.0,,,New York City Department of Parks & Recreation,3706,1,"80 30 Park Lane
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5183,onetime,0,March 11 2011,March 11 2011,approved,,,,,,
+490,1000,0,387,,3.0,,,icouldbe.org,36823,1,"25 21st Street
+New York, NY 10010
+(40.73956924815843, -73.98889355844608)",NY,10010.0,,/opportunities/4972,ongoing,0,January 06 2011,February 21 2011,approved,,,,,,
+491,5,0,68,,3.0,,,Police Athletic League Of New York,3067,1,"985 Rockaway Avenue
+Brooklyn, NY 11212
+(40.656451255408264, -73.90732282830548)",NY,11212.0,,/opportunities/5650,ongoing,0,August 17 2011,August 19 2011,approved,,,,,,
+492,10,0,540,,4.0,,,New York City Department of Sanitation,41239,1,"44 Beaver Street
+New York, NY 10004
+(40.70503909098766, -74.01083245212983)",NY,10004.0,,/opportunities/5469,ongoing,0,June 13 2011,June 13 2011,approved,,,,,,
+493,8,0,232,,4.0,,,The New York Botanical Garden,423,1,"2900 Southern Boulevard
+Bronx, NY 10458
+(40.865047547653994, -73.88379028800846)",NY,10458.0,,/opportunities/5519,ongoing,0,July 15 2011,July 19 2011,approved,,,,,,
+494,20,0,275,,2.0,,,Police Athletic League Of New York,3067,1,"34 1 2 East 12th Street
+New York, NY 10003
+(40.734434119371144, -73.99401070079284)",NY,10003.0,,/opportunities/5063,ongoing,0,February 01 2011,February 01 2011,approved,,,,,,
+495,5,0,107,,2.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22 Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5592,ongoing,0,August 03 2011,August 04 2011,approved,,,,,,
+496,2,0,38,y,5.0,,,New York City Department of Parks & Recreation,3706,1,"1234 5th Avenue
+New York, NY 10029
+(40.793325183462535, -73.95176754309219)",NY,10029.0,,/opportunities/5749,ongoing,0,September 15 2011,September 16 2011,approved,,,,,,
+497,20,0,1759,y,3.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5039,ongoing,0,January 25 2011,March 04 2011,approved,,,,,,
+498,4,0,66,,3.0,,,Up2Us,37687,1,"361 125th St
+New York, NY 10027
+(40.81100239694575, -73.95314550778141)",NY,10027.0,,/opportunities/5227,ongoing,0,March 22 2011,March 23 2011,approved,,,,,,
+499,40,0,101,,1.0,,,Friends of Van Cortlandt Park,161,1,"80 Van Cortlandt Park
+Bronx, NY 10463
+(40.88465843017383, -73.88990186467265)",NY,10463.0,,/opportunities/5710,onetime,0,September 01 2011,September 08 2011,approved,,,,,,
+500,1,0,1454,y,5.0,,,New York City Department of Parks & Recreation,3706,1,"1234 5th ave
+New York, NY 10029
+(40.793325183462535, -73.95176754309219)",NY,10029.0,,/opportunities/5117,ongoing,0,February 17 2011,June 09 2011,approved,,,,,,
+501,50,0,71,,,,,CancerCare,38879,1,"275 Seventh Avenue
+New York, NY 10001
+(40.745639671856225, -73.99452331434952)",NY,10001.0,,/opportunities/5236,onetime,0,March 29 2011,April 19 2011,approved,,,,,,
+502,15,0,391,,4.0,,,Office of Recycling Outreach and Education,36773,1,"113 Ft
+Brooklyn, NY 11238
+(40.67886241346963, -73.9638204696389)",NY,11238.0,,/opportunities/5057,onetime,0,January 28 2011,January 28 2011,approved,,,,,,
+503,6,0,280,,2.0,,,Pace University Community & Volunteer Mobilization AmeriCorps,4019,1,"41 Park Row
+New York, NY 10038
+(40.71182840349377, -74.00632180417499)",NY,10038.0,,/opportunities/5537,ongoing,0,July 20 2011,September 20 2011,approved,,,,,,
+504,10,0,258,,,,,Isabella Geriatric Center,1436,1,"515 Audubon Avenue
+New York, NY 10040
+(40.85474542045091, -73.92794650452043)",NY,10040.0,,/opportunities/5242,ongoing,0,April 01 2011,April 01 2011,approved,,,,,,
+505,20,0,192,,1.0,,,Coney Island Prep ,37699,1,"501 End Avenue
+Brooklyn, NY 11224
+(40.576304656334855, -73.99953200040147)",NY,11224.0,,/opportunities/5262,ongoing,0,April 12 2011,September 25 2011,approved,,,,,,
+506,2,0,120,,1.0,,,Girl Scouts NYC,44253,1,"280 Pleasant Ave
+Harlem, NY 10029
+(40.79480422455373, -73.93330103742075)",NY,10029.0,,/opportunities/5574,ongoing,0,August 01 2011,August 22 2011,approved,,,,,,
+507,99,0,77,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5447,ongoing,0,June 07 2011,June 10 2011,approved,,,,,,
+508,2,0,161,,2.0,,,"Civic Association Serving Harlems, Inc",36963,1,"356 123rd St
+New York, NY 10027
+(40.809779318985875, -73.95430563319923)",NY,10027.0,,/opportunities/4990,ongoing,0,January 12 2011,January 14 2011,approved,,,,,,
+509,100,0,99,,1.0,,,Friends of Van Cortlandt Park,161,1,"80 Van Cortlandt Park
+Bronx, NY 10463
+(40.88465843017383, -73.88990186467265)",NY,10463.0,,/opportunities/5709,onetime,0,September 01 2011,September 01 2011,approved,,,,,,
+510,30,0,99,,1.0,,,"The Puppetry Arts Theatre, Inc",999,1,"71 Sullivan St
+Brooklyn, NY 11231
+(40.67758744585575, -74.01192870924359)",NY,11231.0,,/opportunities/5245,onetime,0,April 04 2011,April 08 2011,approved,,,,,,
+511,5,0,154,,4.0,,,Office of Recycling Outreach and Education,36773,1,"51 Chambers St
+New York, NY 10007
+(40.71377351801845, -74.0053942535769)",NY,10007.0,,/opportunities/5703,ongoing,0,September 01 2011,September 01 2011,approved,,,,,,
+512,20,0,425,y,3.0,,,Citizen Schools,41606,1,"55 Exchange Place
+Manhattan, NY 10005
+(40.706172474547756, -74.01084613297641)",NY,10005.0,,/opportunities/5621,ongoing,0,August 11 2011,September 21 2011,approved,,,,,,
+513,15,0,306,,1.0,,,ARTs East New York Inc.,37775,1,"568 Jerome St
+Brooklyn, NY 11207
+(40.667188699215906, -73.88520654134761)",NY,11207.0,,/opportunities/5096,ongoing,0,February 11 2011,March 02 2011,approved,,,,,,
+514,1,0,189,,1.0,,,Big Apple Greeter,92,1,"1 Centre Street
+New York, NY 10007
+(40.71320112625938, -74.00400216853836)",NY,10007.0,,/opportunities/5133,ongoing,0,February 23 2011,February 24 2011,approved,,,,,,
+515,5,0,242,,1.0,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5271,ongoing,0,April 12 2011,April 14 2011,approved,,,,,,
+516,25,0,464,,1.0,,,"Housing Works, Inc.",835,1,"594 Broadway
+New York, NY 10012
+(40.725076114188276, -73.99702114886225)",NY,10012.0,,/opportunities/5154,ongoing,0,March 03 2011,March 03 2011,approved,,,,,,
+517,1,0,126,,3.0,,,ARTs East New York Inc.,37775,1,"851 Hegeman Ave
+Brooklyn, NY 11207
+(40.66451589141086, -73.88107178975392)",NY,11207.0,,/opportunities/5499,ongoing,0,July 01 2011,July 01 2011,approved,,,,,,
+518,20,0,399,,,,,New York City Department of Parks & Recreation,3706,1,"80 30 Park Lane
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5169,onetime,0,March 08 2011,March 09 2011,approved,,,,,,
+519,20,0,619,,1.0,,,The Laundromat Project,39500,1,"143 116th Street
+New York, NY 10026
+(40.8028365529197, -73.95160766711132)",NY,10026.0,,/opportunities/5404,ongoing,0,June 03 2011,June 09 2011,approved,,,,,,
+520,10,0,89,,2.0,,,FEGS,2833,1,"315 Hudson St
+New York, NY 10013
+(40.72636283816059, -74.00749200433894)",NY,10013.0,,/opportunities/5739,ongoing,0,September 14 2011,September 14 2011,approved,,,,,,
+521,99,0,32,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5430,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+522,15,0,188,,2.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+Brooklyn, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5334,ongoing,0,April 28 2011,April 29 2011,approved,,,,,,
+523,100,0,1902,y,3.0,,,The Future Project,48245,2,"34 14th Street
+New York, NY 10011
+(40.73677235664735, -73.9954496160397)",NY,10011.0,,/opportunities/5588,ongoing,0,August 02 2011,August 20 2011,approved,,,,,,
+524,10,0,603,,3.0,,,ClassWish,39580,1,"401 7th avenue
+New York, NY 10001
+(40.75012728878244, -73.99124978216287)",NY,10001.0,,/opportunities/5490,ongoing,0,June 27 2011,August 15 2011,approved,,,,,,
+525,1,0,173,,1.0,,,Big Apple Greeter,92,1,"1 Centre Street
+New York, NY 10007
+(40.71320112625938, -74.00400216853836)",NY,10007.0,,/opportunities/5135,ongoing,0,February 23 2011,February 24 2011,approved,,,,,,
+526,7,0,64,,1.0,,,First Jamaica Community Urban Development Corporation,4197,1,"89 60 164th Street
+Jamaica, NY 11432
+(40.71311535449007, -73.79282099978928)",NY,11432.0,,/opportunities/5583,ongoing,0,August 02 2011,August 05 2011,approved,,,,,,
+527,5,0,118,,3.0,,,ClassWish,39580,1,"401 Seventh Avenue
+New York, NY 10001
+(40.75012728878244, -73.99124978216287)",NY,10001.0,,/opportunities/5687,ongoing,0,August 29 2011,September 16 2011,approved,,,,,,
+528,5,0,314,,3.0,,,The Harlem Educational Activities Fund,35740,1,"2090 7th Ave
+New York, NY 10027
+(40.8086819592997, -73.94868505900372)",NY,10027.0,,/opportunities/5041,onetime,0,January 25 2011,January 25 2011,approved,,,,,,
+529,50,0,114,,1.0,,,The Laundromat Project,39500,1,"2340 Fifth Avenue
+New York, NY 10037
+(40.816695105391204, -73.9347993383837)",NY,10037.0,,/opportunities/5718,onetime,0,September 06 2011,September 06 2011,approved,,,,,,
+530,1,0,203,,1.0,,,"Afro-Asian, Inc.",34605,1,"1074 Sulffolk Street
+New York, NY 10002
+(40.71612146793143, -73.98583147024613)",NY,10002.0,,/opportunities/5089,ongoing,0,February 08 2011,March 02 2011,approved,,,,,,
+531,1,0,179,,1.0,,,Lighthouse International,87,1,"111E 59th Street
+New York, NY 10022
+(40.76269899878796, -73.9692249977672)",NY,10022.0,,/opportunities/5473,ongoing,0,June 14 2011,June 15 2011,approved,,,,,,
+532,10,0,233,,1.0,,,Project Mentor Development Council Inc. ,47371,1,"260 MacDougal Street
+Brooklyn, NY 11233
+(40.68038499926165, -73.90993739564615)",NY,11233.0,,/opportunities/5533,onetime,0,July 19 2011,July 20 2011,approved,,,,,,
+533,99,0,49,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5425,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+534,500,0,82,,3.0,,,iMentor,614,1,"30 Broad Street
+New York, NY 10004
+(40.706177421210555, -74.01126869053508)",NY,10004.0,,/opportunities/5591,ongoing,0,August 03 2011,August 04 2011,approved,,,,,,
+535,10,0,166,,5.0,,,Bike New York,38740,1,"475 Riverside Drive
+New York City, NY 10115
+(40.810551000428404, -73.96469400002803)",NY,10115.0,,/opportunities/5615,ongoing,0,August 10 2011,August 15 2011,approved,,,,,,
+536,30,0,324,,1.0,,,Miles For Moms,40976,1,"102 St &amp; East Side Drive
+NY 10128
+(40.781770000585084, -73.95062814906976)",NY,10128.0,,/opportunities/5437,onetime,0,June 07 2011,June 10 2011,approved,,,,,,
+537,500,0,327,,5.0,,,Transportation Alternatives,2308,1,"127 26th St
+New York, NY 10001
+(40.74530692270537, -73.9926167516474)",NY,10001.0,,/opportunities/5487,onetime,0,June 24 2011,June 24 2011,approved,,,,,,
+538,5,0,266,,3.0,,,Arab American Association Of New York,3810,1,"7111 5th
+Brooklyn, NY 11209
+(40.63245112562076, -74.02139571101452)",NY,11209.0,,/opportunities/5086,ongoing,0,February 08 2011,February 08 2011,approved,,,,,,
+539,100,0,239,,1.0,,,Civil Air Patrol,47559,1,"1224 Park Place
+Brooklyn, NY 11213
+(40.67268717852895, -73.93695770187597)",NY,11213.0,,/opportunities/5535,ongoing,0,July 20 2011,July 20 2011,approved,,,,,,
+540,25,0,410,y,3.0,,,Pace University Community & Volunteer Mobilization AmeriCorps,4019,1,"41 Park Row
+New York, NY 10038
+(40.71182840349377, -74.00632180417499)",NY,10038.0,,/opportunities/5717,onetime,0,September 03 2011,September 06 2011,approved,,,,,,
+541,2,0,439,,1.0,,,Bellevue Hospital,264,1,"27th Street
+New York, NY 10016
+(40.74271237865085, -73.98454533643442)",NY,10016.0,,/opportunities/5610,ongoing,0,August 10 2011,August 10 2011,approved,,,,,,
+542,1,0,191,,1.0,,,New York Asian Women's Center,24,1,"32 Broadway
+New York, NY 10004
+(40.70604252290616, -74.01308532103428)",NY,10004.0,,/opportunities/5638,ongoing,0,August 16 2011,August 17 2011,approved,,,,,,
+543,5,0,508,,1.0,,,"QSAC, Inc. (Quality Services for the Autism Community)",38735,1,"253 35th Street
+New York, NY 10001
+(40.75251948538039, -73.99214910419215)",NY,10001.0,,/opportunities/5221,ongoing,0,March 22 2011,March 29 2011,approved,,,,,,
+544,99,0,125,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5449,ongoing,0,June 07 2011,June 08 2011,approved,,,,,,
+545,20,0,237,,1.0,,,FEGS,2833,1,"315 Hudson St
+New York, NY 10013
+(40.72636283816059, -74.00749200433894)",NY,10013.0,,/opportunities/5725,ongoing,6,September 08 2011,September 27 2011,approved,,,,,,
+546,99,0,58,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5452,ongoing,0,June 07 2011,June 08 2011,approved,,,,,,
+547,99,0,48,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5411,ongoing,0,June 06 2011,June 08 2011,approved,,,,,,
+548,5,0,121,,1.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5207,ongoing,0,March 17 2011,March 22 2011,approved,,,,,,
+549,1,0,367,,2.0,,,Center for the Integration & Advancement of New Americans (CIANA),33709,1,"31 09 Suite 411 Newtown Ave
+Astoria, NY 11102
+(40.77152402451418, -73.92643545073543)",NY,11102.0,,/opportunities/5035,ongoing,0,January 24 2011,January 24 2011,approved,,,,,,
+550,15,0,215,y,5.0,,,Jewish Association for Services for the Aged (JASA),728,1,"132 31st Street
+New York, NY 10001
+(40.74849052268911, -73.99056629742063)",NY,10001.0,,/opportunities/5381,ongoing,0,May 24 2011,May 24 2011,approved,,,,,,
+551,5,0,260,,,,,Age-Friendly New York City,40933,1,"1216 Fifth Avenue at 103rd Street
+New York, NY 10029
+(40.79161072055837, -73.94403228106489)",NY,10029.0,,/opportunities/5418,ongoing,0,June 06 2011,June 27 2011,approved,,,,,,
+552,99,0,58,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5413,ongoing,0,June 06 2011,June 08 2011,approved,,,,,,
+553,3,0,593,,1.0,,,Single Mothers by Choice (SMC),41272,1,"1642 New
+York, NY 10028
+(40.776344978837756, -73.95296667956859)",NY,10028.0,,/opportunities/5471,ongoing,0,June 14 2011,June 22 2011,approved,,,,,,
+554,2,0,178,,,,,Episcopal Social Services NYC,42496,1,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5587,ongoing,0,August 02 2011,September 21 2011,approved,,,,,,
+555,35,0,357,,3.0,,,Kingsbridge Heights Community Center (KHCC),1691,1,"3101 Kingsbridge Terrace
+Bronx, NY 10463
+(40.877585488561785, -73.90026905620573)",NY,10463.0,,/opportunities/5203,onetime,0,March 15 2011,March 25 2011,approved,,,,,,
+556,4,0,99,,5.0,,,Metropolitan Council on Jewish Poverty,974,1,"171 Lexington Ave
+New York, NY 10016
+(40.74423799432977, -73.9812457099107)",NY,10016.0,,/opportunities/5605,ongoing,0,August 09 2011,August 09 2011,approved,,,,,,
+557,20,0,133,,2.0,,,Bike New York,38740,1,"475 Riverside Drive
+New York City, NY 10115
+(40.810551000428404, -73.96469400002803)",NY,10115.0,,/opportunities/5403,ongoing,0,June 03 2011,June 03 2011,approved,,,,,,
+558,10,0,570,,1.0,,,New York City Department of Parks & Recreation,3706,1,"80 30 Park Lane
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5182,ongoing,0,March 11 2011,March 11 2011,approved,,,,,,
+559,99,0,224,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5454,ongoing,0,June 07 2011,June 08 2011,approved,,,,,,
+560,20,0,139,,2.0,,,Yorkville Common Pantry,779,1,"8 109th Street
+New York, NY 10029
+(40.795965732615855, -73.94910755186987)",NY,10029.0,,/opportunities/5607,ongoing,0,August 09 2011,August 09 2011,approved,,,,,,
+561,22,0,314,,1.0,,,New York City Department of Parks & Recreation,3706,1,"80 30 Park Lane
+Kew Gardens, NY 11415
+(40.708286075142325, -73.82855612156771)",NY,11415.0,,/opportunities/5168,onetime,0,March 08 2011,March 09 2011,approved,,,,,,
+562,1,0,113,,1.0,,,ARTs East New York Inc.,37775,1,"568 Jerome St
+Brooklyn, NY 11207
+(40.667188699215906, -73.88520654134761)",NY,11207.0,,/opportunities/5240,ongoing,0,April 01 2011,April 01 2011,approved,,,,,,
+563,2,0,693,,2.0,,,National Suicide Prevention Lifeline,4121,1,"50 Broadway
+New York, NY 10004
+(40.70641124493818, -74.01279753798491)",NY,10004.0,,/opportunities/5393,ongoing,0,May 31 2011,June 02 2011,approved,,,,,,
+564,100,0,3319,y,6.0,,,World Cares Center,36979,1,"520 8th Ave
+New York, NY 10018
+(40.75376054978079, -73.99232896859803)",NY,10018.0,,/opportunities/5304,ongoing,0,April 18 2011,August 08 2011,approved,,,,,,
+565,99,0,34,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5422,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+566,5,0,465,,1.0,,,  Brooklyn Center for Quality Life (BCQL),39767,1,"203 37th Street
+Brooklyn, NY 11203
+(40.65222632350615, -73.94290179219394)",NY,11203.0,,/opportunities/5340,onetime,0,May 04 2011,May 11 2011,approved,,,,,,
+567,15,0,205,,1.0,,,Metropolitan Council on Jewish Poverty,974,1,"Neptune Avenue
+Brooklyn, NY 11224
+(40.5776378129877, -73.99752264510208)",NY,11224.0,,/opportunities/5395,onetime,0,June 01 2011,June 02 2011,approved,,,,,,
+568,99,0,26,,,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5420,ongoing,0,June 06 2011,June 09 2011,approved,,,,,,
+569,5,0,373,,3.0,,,The Wendy Hilliard Foundation ,38270,1,"550 155th Street
+New York, NY 10040
+(40.83212844227807, -73.94439429101087)",NY,10040.0,,/opportunities/5153,ongoing,0,March 03 2011,March 04 2011,approved,,,,,,
+570,10,0,28,,2.0,,,Metropolitan Council on Jewish Poverty,974,1,"Coney Island Avenue
+Brooklyn, NY 11230
+(40.631956374132415, -73.96675674669487)",NY,11230.0,,/opportunities/5252,onetime,0,April 07 2011,April 07 2011,approved,,,,,,
+571,20,0,1,,1.0,,,Street Project,3001,1,"441 Manhattan Avenue
+New York, NY 10026
+(40.80669464442542, -73.95561864336202)",NY,10026.0,,/opportunities/5107,onetime,0,February 14 2011,March 09 2011,approved,,,,,,
+572,10,0,194,,,,,Turtle Bay Music School,33503,1,"244 52nd Street
+New York, NY 10022
+(40.756624229687965, -73.96884239322272)",NY,10022.0,,/opportunities/5719,onetime,0,September 06 2011,September 07 2011,approved,,,,,,
+573,3,0,361,,1.0,,,The Lenox Hill Neighborhood House,2138,1,"331 70th Street
+New York, NY 10021
+(40.76689065140857, -73.95789392809615)",NY,10021.0,,/opportunities/5171,ongoing,0,March 08 2011,March 09 2011,approved,,,,,,
+574,4,0,382,,1.0,,,"Afro-Asian, Inc.",34605,1,"107 Sullfok
+New York, NY 10002
+(40.71612146793143, -73.98583147024613)",NY,10002.0,,/opportunities/5088,ongoing,0,February 08 2011,February 08 2011,approved,,,,,,
+575,5,0,706,,1.0,,,"Clothed With Love, Inc.",39933,1,"1207 Hancock Street
+Brooklyn, NY 11221
+(40.69173082634565, -73.91169835114071)",NY,11221.0,,/opportunities/5360,onetime,0,May 12 2011,May 13 2011,approved,,,,,,
+576,20,0,193,,3.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5075,ongoing,0,February 04 2011,March 04 2011,approved,,,,,,
+577,2,0,86,,5.0,,,Metropolitan Council on Jewish Poverty,974,1,"171 Lexington Ave
+New York, NY 10016
+(40.74423799432977, -73.9812457099107)",NY,10016.0,,/opportunities/5606,ongoing,0,August 09 2011,August 09 2011,approved,,,,,,
+578,1,0,54,,5.0,,,Children of Bellevue,34244,1,"462 1st Avenue
+New York, NY 10016
+(40.73962320748018, -73.97657284664467)",NY,10016.0,,/opportunities/5713,ongoing,0,September 01 2011,September 01 2011,approved,,,,,,
+579,99,0,37,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5436,ongoing,0,June 06 2011,June 10 2011,approved,,,,,,
+580,1,0,183,,5.0,,,The Leukemia & Lymphoma Society,38555,1,"475 Park Avenue
+New York, NY 10016
+(40.745393847676304, -73.98242124325532)",NY,10016.0,,/opportunities/5589,onetime,0,August 03 2011,August 04 2011,approved,,,,,,
+581,5,0,572,,1.0,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5290,ongoing,0,April 14 2011,April 18 2011,approved,,,,,,
+582,1,0,91,,1.0,,,Live Out Loud - Volunteers,18819,1,"570 7th Avenue
+New York, NY 10018
+(40.75520845824798, -73.98756256184276)",NY,10018.0,,/opportunities/5742,ongoing,0,September 14 2011,September 16 2011,approved,,,,,,
+583,10,0,762,,1.0,,,New York City Department of Parks & Recreation,3706,1,"8030 Park lane
+Kew Gardens, NY 11415
+(40.711186177816984, -73.83543395214066)",NY,11415.0,,/opportunities/5191,ongoing,0,March 11 2011,March 11 2011,approved,,,,,,
+584,100,0,243,,1.0,,,"The Puppetry Arts Theatre, Inc",999,1,"372 Brooklyn
+NY 11214
+(40.604011809897145, -74.0009690001192)",NY,11214.0,,/opportunities/5705,ongoing,0,September 01 2011,September 01 2011,approved,,,,,,
+585,1,0,122,,,,,New York Asian Women's Center,24,1,"32 Broadway
+New York, NY 10004
+(40.70604252290616, -74.01308532103428)",NY,10004.0,,/opportunities/5637,ongoing,0,August 16 2011,August 17 2011,approved,,,,,,
+586,30,0,140,,3.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5320,ongoing,0,April 25 2011,April 29 2011,approved,,,,,,
+587,3,0,285,,1.0,,,"Going Coastal, Inc.",989,1,"230 Sackett Street
+Brooklyn, NY 11231
+(40.68392768175474, -73.99871220556926)",NY,11231.0,,/opportunities/5254,ongoing,0,April 08 2011,April 08 2011,approved,,,,,,
+588,1,0,625,,1.0,,,Greenwich Village Youth Council,34501,1,"111 14th St
+New York, NY 10003
+(40.73420096837262, -73.98926385518747)",NY,10003.0,,/opportunities/4988,ongoing,0,January 12 2011,January 12 2011,approved,,,,,,
+589,50,0,510,,4.0,,,Earth Celebrations,36777,1,"Church Street School for Music
+New York, NY 10007
+(40.709720974743576, -74.01172000462773)",NY,10007.0,,/opportunities/4966,ongoing,0,January 05 2011,January 13 2011,approved,,,,,,
+590,10,0,146,,1.0,,,Bike New York,38740,1,"475 Riverside Drive
+New York City, NY 10115
+(40.810551000428404, -73.96469400002803)",NY,10115.0,,/opportunities/5720,ongoing,0,September 06 2011,September 06 2011,approved,,,,,,
+591,2,0,219,,1.0,,,Episcopal Social Services NYC,42496,1,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5585,ongoing,0,August 02 2011,August 09 2011,approved,,,,,,
+592,2,0,265,,1.0,,,"CONNECT, Inc.",39021,1,"20217 New
+York, NY 10001
+(40.75025902143676, -73.99688630375988)",NY,10001.0,,/opportunities/5297,ongoing,0,April 15 2011,May 18 2011,approved,,,,,,
+593,99,0,119,,1.0,,,Catchafire,39853,1,"407 Broome Street
+New York, NY 10013
+(40.720962275372244, -73.99794973128115)",NY,10013.0,,/opportunities/5453,ongoing,0,June 07 2011,June 08 2011,approved,,,,,,
+594,6,0,43,,,,,The Laundromat Project,39500,1,"275 Macdonough Street
+Brooklyn, NY 11233
+(40.68200547989472, -73.93533421254803)",NY,11233.0,,/opportunities/5321,onetime,0,April 25 2011,May 02 2011,approved,,,,,,
+595,100,0,1781,y,6.0,,,NYC Service,3747,1,"420 83 Street
+Brooklyn, NY 11236
+(40.64271918139121, -73.9175126732569)",NY,11236.0,,/opportunities/5194,onetime,0,March 14 2011,March 15 2011,approved,,,,,,
+596,5,0,89,,2.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22nd Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5337,ongoing,0,April 29 2011,May 09 2011,approved,,,,,,
+597,20,0,3610,y,1.0,,,Queens Pride House,34384,1,"76 11 37th Ave
+Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)",NY,11372.0,,/opportunities/5082,ongoing,0,February 05 2011,June 20 2011,approved,,,,,,
+598,40,0,1036,,1.0,,,El Museo Del Barrio,3717,1,"1230 Fifth Avenue
+New York, NY 10029
+(40.79327675974827, -73.95185048405926)",NY,10029.0,,/opportunities/5034,ongoing,0,January 24 2011,June 28 2011,approved,,,,,,
+599,10,0,59,,5.0,,,Metropolitan Council on Jewish Poverty,974,1,"132 31st Street
+New York, NY 10001
+(40.74849052268911, -73.99056629742063)",NY,10001.0,,/opportunities/5394,onetime,0,May 31 2011,June 02 2011,approved,,,,,,
+600,1000,0,153,,5.0,,,American Cancer Society-Making Strides Against Breast Cancer,49480,1,"132 32nd St
+New York, NY 10001
+(40.74868428617484, -73.98921741350024)",NY,10001.0,,/opportunities/5748,onetime,0,September 15 2011,September 16 2011,approved,,,,,,
+601,2,0,32,,,,,Waterkeeper Alliance,37477,1,"17 Battery Place
+New York, NY 10004
+(40.70495385056041, -74.0161118971392)",NY,10004.0,,/opportunities/5061,onetime,0,January 31 2011,February 01 2011,approved,,,,,,
+602,10,0,547,,2.0,,,Park Slope Geriatric Day Center,39413,1,"199 14th Street
+Brooklyn, NY 11215
+(40.66705475241829, -73.99058149690018)",NY,11215.0,,/opportunities/5309,ongoing,0,April 20 2011,April 22 2011,approved,,,,,,
+603,8,0,437,,1.0,,,New York City Department of Parks & Recreation,3706,1,"8030 Park Lane
+Kew Gardens, NY 11415
+(40.711186177816984, -73.83543395214066)",NY,11415.0,,/opportunities/5188,onetime,0,March 11 2011,March 11 2011,approved,,,,,,
+604,10,0,50,,3.0,,,ClassWish,39580,1,"401 Seventh Avenue
+New York, NY 10001
+(40.75012728878244, -73.99124978216287)",NY,10001.0,,/opportunities/5661,ongoing,0,August 22 2011,September 16 2011,approved,,,,,,
+605,3,0,322,,2.0,,,The HOPE Program,4291,1,"1 Smith Street
+Brooklyn, NY 11201
+(40.69142005102751, -73.987316196984)",NY,11201.0,,/opportunities/5224,ongoing,0,March 22 2011,March 22 2011,approved,,,,,,
+606,8,0,538,,3.0,,,Kids For Tomorrow,38714,1,"353 Third Ave
+New York, NY 10010
+(40.74062169751107, -73.98179661888042)",NY,10010.0,,/opportunities/5219,ongoing,0,March 21 2011,March 22 2011,approved,,,,,,
+607,8,0,346,,2.0,,,The Lenox Hill Neighborhood House,2138,1,"331 70th Street
+New York, NY 10018
+(40.63454489394634, -74.02560091774434)",NY,10018.0,,/opportunities/5145,ongoing,0,March 01 2011,March 01 2011,approved,,,,,,
+608,3,0,179,,2.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22 Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5631,ongoing,0,August 15 2011,August 15 2011,approved,,,,,,
+609,20,0,355,,1.0,,,"The West Harlem Art Fund, Inc.",38167,1,"17 Nolan Park on Governor 's Island
+New York, NY 10004
+(40.688827825343935, -74.01911250583743)",NY,10004.0,,/opportunities/5402,ongoing,0,June 03 2011,June 03 2011,approved,,,,,,
+610,1,0,119,y,5.0,,,New York City Department of Parks & Recreation,3706,1,"131 40 Fowler Avenue
+Flushing, NY 11355
+(40.7512997969481, -73.82147854789662)",NY,11355.0,,/opportunities/5737,ongoing,0,September 13 2011,September 14 2011,approved,,,,,,
+611,50,0,10,y,2.0,,,NYC Service,3747,1,"253 Broadway
+New York, NY 10007
+(40.713255085581125, -74.00706885665824)",NY,10007.0,,/opportunities/4986,onetime,0,January 11 2011,February 02 2011,approved,,,,,,
+612,50,0,209,,3.0,,,Generation Citizen,50166,1,"45 21st St
+New York, NY 10010
+(40.74124198713292, -73.99285956859529)",NY,10010.0,,/opportunities/5633,ongoing,0,August 16 2011,August 17 2011,approved,,,,,,
+613,1,0,80,,1.0,,,Girls Incorporated Of New York City,1166,1,"120 Wall Street
+New York, NY 10005
+(40.704414750033095, -74.00648429733923)",NY,10005.0,,/opportunities/5370,ongoing,0,May 17 2011,June 08 2011,approved,,,,,,
+614,3,0,227,,1.0,,,The Family Center,44702,1,"315 36th Street
+New York, NY 10018
+(40.75386846842434, -73.99347110757526)",NY,10018.0,,/opportunities/5597,ongoing,0,August 04 2011,August 04 2011,approved,,,,,,
+615,2,0,257,,1.0,,,Family and Community Support Services,38868,1,"1195 St Marks Ave
+Brooklyn, NY 11213
+(40.674130422885526, -73.92980967882666)",NY,11213.0,,/opportunities/5265,ongoing,0,April 12 2011,April 14 2011,approved,,,,,,
+616,15,0,290,,1.0,,,ARTs East New York Inc.,37775,1,"568 Jerome St
+Brooklyn, NY 11207
+(40.667188699215906, -73.88520654134761)",NY,11207.0,,/opportunities/5098,ongoing,0,February 11 2011,March 02 2011,approved,,,,,,
+617,30,0,442,,3.0,,,"Mentors Organized means Victory for Everyone,(MOVE)Inc.",3936,1,"477 Greene Ave
+brooklyn, NY 11216
+(40.68833873427424, -73.95194766904321)",NY,11216.0,,/opportunities/5031,ongoing,0,January 24 2011,January 25 2011,approved,,,,,,
+618,15,0,255,y,1.0,,,Governors Island Alliance,3862,1,"4 Irving Place
+New York, NY 10003
+(40.734106908087384, -73.98864446892128)",NY,10003.0,,/opportunities/5347,onetime,0,May 10 2011,May 11 2011,approved,,,,,,
+619,5,0,329,,1.0,,,Hearts and Minds,39195,1,"165 105th Street
+New York, NY 10025
+(40.79937645675807, -73.96519802101764)",NY,10025.0,,/opportunities/5276,ongoing,0,April 12 2011,April 14 2011,approved,,,,,,
+620,22,0,324,,1.0,,,Office of Recycling Outreach and Education,36773,1,"51 Chambers Street
+New York, NY 10007
+(40.71377351801845, -74.0053942535769)",NY,10007.0,,/opportunities/5721,onetime,0,September 06 2011,September 07 2011,approved,,,,,,
+621,6,0,69,,3.0,,,Community Service Society/Retired & Senior Volunteer Program (RSVP),4279,1,"105 22 Street
+New York, NY 10010
+(40.73943216627024, -73.98656260495757)",NY,10010.0,,/opportunities/5579,ongoing,0,August 01 2011,August 01 2011,approved,,,,,,
+622,1,0,45,y,2.0,,,New York Legal Assistance Group,104,1,"450 33rd Street
+New York, NY 10001-2603
+(40.75347794565972, -73.99864692871675)",NY,,,/opportunities/5338,ongoing,0,May 02 2011,May 02 2011,approved,,,,,,
+623,1,0,437,,5.0,,,New York City Department of Parks & Recreation,3706,1,"Metropolitan Ave
+Queens, NY 11418
+(40.69637041236467, -73.84031024991805)",NY,11418.0,,/opportunities/4973,ongoing,0,January 07 2011,January 10 2011,approved,,,,,,
+624,200,0,599,,1.0,,,Concern Worldwide US,3642,1,"355 Lexington Ave
+New York, NY 10017
+(40.75016951126717, -73.97694147468593)",NY,10017.0,,/opportunities/5079,ongoing,0,February 04 2011,February 16 2011,approved,,,,,,
+625,50,0,165,,4.0,,,Office of Recycling Outreach and Education,36773,1,"51 Chambers Street
+New York, NY 10007
+(40.71377351801845, -74.0053942535769)",NY,10007.0,,/opportunities/5556,ongoing,0,July 25 2011,July 28 2011,approved,,,,,,
+626,3,0,155,,,,,New York Futsal,39106,1,"233 77th Street
+New York, NY 10024
+(40.78255158071745, -73.98091585032279)",NY,10024.0,,/opportunities/5281,ongoing,0,April 13 2011,April 14 2011,approved,,,,,,
+627,20,0,12,,3.0,,,Harlem RBI,4126,1,"333 100th Street
+New York, NY 10029
+(40.7864951475855, -73.94439880643534)",NY,10029.0,,/opportunities/5776,ongoing,0,September 23 2011,September 26 2011,approved,,,,,,
+628,30,0,886,,1.0,,,Children's Museum Of The Arts,1310,1,"182 Lafayette Street
+New York, NY 10013
+(40.72063851944171, -73.9985522770408)",NY,10013.0,,/opportunities/5301,onetime,0,April 17 2011,April 18 2011,approved,,,,,,
+629,30,0,672,,,,,Artists Striving To End Poverty,2250,1,"165 46th Street
+New York, NY 10036
+(40.7586085621595, -73.98506333562563)",NY,10036.0,,/opportunities/5014,ongoing,0,January 18 2011,February 03 2011,approved,,,,,,
+630,3,0,17,,1.0,,,BCA,1250,1,"244 Madison Ave
+New York, NY 10016
+(40.75015809710567, -73.98126558278405)",NY,10016.0,,/opportunities/5715,onetime,0,September 02 2011,September 02 2011,approved,,,,,,
+631,1,0,174,,1.0,,,"Spoons Across America dba Farm to Table, Inc.",37389,1,"540 President Street
+Brooklyn, NY 11215
+(40.6773834625823, -73.98508745696203)",NY,11215.0,,/opportunities/5048,ongoing,0,January 27 2011,January 28 2011,approved,,,,,,
+632,20,0,386,,1.0,,,Learning Leaders,213,1,"200 Eastern Parkway
+Brooklyn, NY 11238
+(40.671546408201536, -73.9625767044186)",NY,11238.0,,/opportunities/5527,ongoing,0,July 18 2011,September 16 2011,approved,,,,,,
+633,20,0,37,,2.0,,,Street Project,3001,1,"120 Broadway
+New York, NY 10271
+(40.708443712724375, -74.011142785451)",NY,10271.0,,/opportunities/5015,onetime,0,January 19 2011,January 21 2011,approved,,,,,,
+634,1,0,504,,1.0,,,Brooklyn Community Services,39558,1,"285 Schermerhorn Street
+Brooklyn, NY 11217
+(40.687790343385544, -73.98292053949278)",NY,11217.0,,/opportunities/5327,ongoing,0,April 27 2011,April 29 2011,approved,,,,,,
+635,50,0,621,y,2.0,,,NYC Service,3747,1,"253 Broadway
+New York, NY 10007
+(40.713255085581125, -74.00706885665824)",NY,10007.0,,/opportunities/4984,onetime,0,January 11 2011,February 02 2011,approved,,,,,,
+636,20,0,166,,1.0,,,The Trevor Project,40060,1,"80 Maiden Ln
+New York, NY 10038
+(40.70722063476455, -74.00745556513084)",NY,10038.0,,/opportunities/5373,ongoing,0,May 18 2011,May 23 2011,approved,,,,,,
+637,5,0,299,,2.0,,,The Momentum Project,46019,1,"85 165 Street
+Bronx, NY 10452
+(40.83162353671856, -73.922408930193)",NY,10452.0,,/opportunities/5517,ongoing,0,July 13 2011,July 15 2011,approved,,,,,,
+638,50,0,178,,1.0,,,Girl Scouts NYC,44253,1,"43 23rd St
+New York, NY 10010
+(40.74227620746666, -73.9913217279252)",NY,10010.0,,/opportunities/5505,ongoing,0,July 07 2011,July 07 2011,approved,,,,,,
+639,6,0,203,,2.0,,,Arab American Association Of New York,3810,1,"7111 5th avenue
+Brooklyn, NY 11209
+(40.63245112562076, -74.02139571101452)",NY,11209.0,,/opportunities/5586,ongoing,0,August 02 2011,August 11 2011,approved,,,,,,
+640,10,0,45,,1.0,,,American Diabetes Association,39913,1,"333 Seventh Avenue
+New York, NY 10001
+(40.747492275236596, -73.99319231774615)",NY,10001.0,,/opportunities/5355,onetime,0,May 12 2011,June 01 2011,approved,,,,,,
+641,2,0,313,,1.0,,,Hospital Audiences Inc. (HAI),3094,1,"548 Broadway
+New York, NY 10012
+(40.723633146495736, -73.99822304358818)",NY,10012.0,,/opportunities/5625,ongoing,0,August 12 2011,August 15 2011,approved,,,,,,
+642,100,0,230,,2.0,,,"inMotion, Inc.",35198,1,"1411 Broadway at 39th Street
+New YOrk, NY 10018
+(40.756840774582145, -73.99669149981281)",NY,10018.0,,/opportunities/5701,onetime,0,August 31 2011,August 31 2011,approved,,,,,,
+643,36,0,269,y,2.0,,,NYC Service,3747,1,"253 Broadway
+New York, NY 10007
+(40.713255085581125, -74.00706885665824)",NY,10007.0,,/opportunities/5775,ongoing,0,September 22 2011,September 22 2011,approved,,,,,,
+644,40,0,577,,1.0,,,Police Athletic League Of New York,3067,1,"34 1 2 East 12th Street
+New York, NY 10003
+(40.734434119371144, -73.99401070079284)",NY,10003.0,,/opportunities/5045,ongoing,0,January 26 2011,January 26 2011,approved,,,,,,
+645,5,0,468,,,,,Dr. Theodore A. Atlas Foundation,38217,1,"543 Cary Ave
+Staten Island, NY 10310
+(40.632317121459955, -74.11999682434858)",NY,10310.0,,/opportunities/5146,ongoing,0,March 01 2011,March 01 2011,approved,,,,,,
+646,50,0,69,,1.0,,,"The Puppetry Arts Theatre, Inc",999,1,"108 court street
+brooklyn, NY 11202
+(40.69046698947164, -73.99203002284442)",NY,11202.0,,/opportunities/5405,ongoing,0,June 03 2011,June 03 2011,approved,,,,,,
+647,1,0,154,,1.0,,,Queens Pride House,34384,1,"76 11 37th Avenue
+Jackson Heights, NY 11372
+(40.75163073936716, -73.88361254528269)",NY,11372.0,,/opportunities/5178,ongoing,0,March 10 2011,June 16 2011,approved,,,,,,
+648,15,0,296,,1.0,,,No Doubt Inc.,38358,1,"61 43 186th Street
+Fresh Meadows, NY 11365
+(40.73987184371066, -73.79462153515567)",NY,11365.0,,/opportunities/5163,ongoing,0,March 08 2011,March 09 2011,approved,,,,,,
+649,3,0,506,,2.0,,,"Jewish Home Lifecare, Manhattan Division",2694,1,"120 106th Street
+New York, NY 10025
+(40.7994834845182, -73.96352009942227)",NY,10025.0,,/opportunities/5396,ongoing,0,June 01 2011,September 14 2011,approved,,,,,,
+650,20,0,237,,4.0,,,The New York Botanical Garden,423,1,"2900 Southern Boulevard
+Bronx, NY 10458
+(40.865047547653994, -73.88379028800846)",NY,10458.0,,/opportunities/5530,ongoing,0,July 19 2011,July 20 2011,approved,,,,,,
+651,20,0,374,,2.0,,,The Olivieri Drop In Center for Men and Women,39184,1,"575 8th Ave
+New York, NY 10018
+(40.754911681978285, -73.99150159233108)",NY,10018.0,,/opportunities/5267,ongoing,0,April 12 2011,April 14 2011,approved,,,,,,
+652,10,0,210,,1.0,,,2011 World Science Festival,39246,1,"475 Riverside Drive
+New York, NY 10115
+(40.811119146157, -73.96405175554054)",NY,10115.0,,/opportunities/5286,ongoing,0,April 13 2011,April 14 2011,approved,,,,,,
+653,10,0,2192,,4.0,,,"Services for the UnderServed, Inc.",38951,2,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5306,ongoing,0,April 19 2011,August 16 2011,approved,,,,,,
+654,3,0,164,,1.0,,,The Family Center,44702,1,"315 36th Street
+New York, NY 10018
+(40.75386846842434, -73.99347110757526)",NY,10018.0,,/opportunities/5598,ongoing,0,August 04 2011,August 04 2011,approved,,,,,,
+655,8,0,54,,1.0,,,Project Mentor Development Council Inc. ,47371,1,"260 MacDougal Street
+Brooklyn, NY 11233
+(40.68038499926165, -73.90993739564615)",NY,11233.0,,/opportunities/5528,ongoing,0,July 19 2011,July 19 2011,approved,,,,,,
+656,20,0,243,,1.0,,,iGotITtoo,38685,1,"380385 Brooklyn
+NY 11238
+(40.67886241346963, -73.9638204696389)",NY,11238.0,,/opportunities/5214,ongoing,0,March 21 2011,July 09 2011,approved,,,,,,
+657,2,0,297,,1.0,,,Big Apple Basketball,36124,1,"55 Lexington Avenue
+New York, NY 10010
+(40.74055729531126, -73.98392283234197)",NY,10010.0,,/opportunities/5126,ongoing,0,February 23 2011,February 23 2011,approved,,,,,,
+658,15,0,361,,5.0,,,National Multiple Sclerosis Society NYC Chapter,545,1,"733 Third Avenue
+New York, NY 10017
+(40.753095051479136, -73.9727597212405)",NY,10017.0,,/opportunities/5479,ongoing,0,June 21 2011,June 21 2011,approved,,,,,,
+659,1,0,262,,2.0,,,New York Legal Assistance Group,104,1,"7 Hanover Square
+New York, NY 10004
+(40.7043068313896, -74.00918226342714)",NY,10004.0,,/opportunities/5641,ongoing,0,August 16 2011,August 17 2011,approved,,,,,,
+660,3,0,197,,2.0,,,New York Legal Assistance Group,104,1,"7 Hanover Square
+New York, NY 10004
+(40.7043068313896, -74.00918226342714)",NY,10004.0,,/opportunities/5640,ongoing,0,August 16 2011,August 17 2011,approved,,,,,,
+661,10,0,113,,1.0,,,Iridescent,38544,1,"890 Garrison Ave
+Bronx, NY 10474
+(40.817114194167054, -73.89198548226072)",NY,10474.0,,/opportunities/5218,onetime,0,March 21 2011,March 21 2011,approved,,,,,,
+662,1,0,145,,2.0,,,"Services for the UnderServed, Inc.",38951,1,"305 Seventh Avenue
+New York, NY 10001
+(40.74678037991758, -73.99366420981637)",NY,10001.0,,/opportunities/5541,ongoing,0,July 20 2011,August 23 2011,approved,,,,,,
+663,2,0,330,,1.0,,,World Cares Center,36979,1,"520 8th Ave
+NY, NY 10018
+(40.75376054978079, -73.99232896859803)",NY,10018.0,,/opportunities/5398,ongoing,0,June 01 2011,August 09 2011,approved,,,,,,
+664,5,0,304,,1.0,,,Mayor's Office of Adult Education,43738,1,"100 Gold Street
+New York, NY 10038
+(40.71053013983237, -74.00381331091222)",NY,10038.0,,/opportunities/5507,ongoing,0,July 07 2011,July 07 2011,approved,,,,,,
