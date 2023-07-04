@@ -8,7 +8,7 @@ for item in liste:
     folderPath = os.path.join("Egzersiz",item)
     if not os.path.exists(folderPath):
         os.mkdir(folderPath)
-    open(os.path.join(folderPath,fileName),"a+")
+    open(os.path.join(folderPath,fileName),"w+")
 
 """
 /workspace/DeepLearningFundamentals/Datasets/50_Startups.csv
