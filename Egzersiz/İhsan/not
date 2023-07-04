@@ -1,0 +1,9 @@
+day 1 
+
+kütüphaneler = pandas,numpy,
+read=pd.read_csv("/workspace/DeepLearningFundamentals/Datasets/diabetes.csv")
+
+read.head(10) = ilk 10
+
+read.tail(10) = son 10
+

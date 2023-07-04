@@ -1,7 +1,7 @@
 import os
 
 # os.mkdir("Egzersiz")
-fileName = "01_02_Matplotlib.ipynb"
+fileName = "01_03_MissingData.ipynb"
 liste = ["Cevaplar","Arzu","Ersel","Ozkan","Atıf","Omer","Yusuf",\
     "Beytullah","Mehmet","İhsan","OmerReal","Beste","Şafak","Kubra","Hatice","YunusEmre","Berkay","Muhammed","Harun"]
 for item in liste:
