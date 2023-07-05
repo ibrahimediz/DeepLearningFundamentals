@@ -1,13 +1,19 @@
 import os
+import shutil
 
 # os.mkdir("Egzersiz")
-fileName = "01_04_Encoding.ipynb"
+fileName = "01_05_SplittingData.ipynb"
 liste = ["Cevaplar","Arzu","Ersel","Ozkan","Atıf","Omer","Yusuf",\
     "Beytullah","Mehmet","İhsan","OmerReal","Beste","Şafak","Kubra","Hatice","YunusEmre","Berkay","Muhammed","Harun"]
 for item in liste:
     folderPath = os.path.join("Egzersiz",item)
     if not os.path.exists(folderPath):
         os.mkdir(folderPath)
+    if not os.path.exists(os.path.join(folderPath,"data")):
+        os.mkdir(os.path.join(folderPath,"data"))
+    srcPath = "/workspace/DeepLearningFundamentals/Datasets/heart.csv"
+    destPath = fr"/workspace/DeepLearningFundamentals/Egzersiz/{item}/data/heart.csv"
+    shutil.copy(srcPath,destPath)
     open(os.path.join(folderPath,fileName),"w+")
 
 """
