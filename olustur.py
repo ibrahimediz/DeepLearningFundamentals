@@ -2,7 +2,7 @@ import os
 import shutil
 
 # os.mkdir("Egzersiz")
-fileName = "01_06_Outliers.ipynb"
+fileName = "02_01_MLFundamentals.ipynb"
 liste = ["Cevaplar","Arzu","Ersel","Ozkan","Atıf","Omer","Yusuf",\
     "Beytullah","Mehmet","İhsan","OmerReal","Beste","Şafak","Kubra","Hatice","YunusEmre","Berkay","Muhammed","Harun"]
 for item in liste:
