@@ -2,7 +2,7 @@ import os
 import shutil
 
 # os.mkdir("Egzersiz")
-fileName = "02_01_MLOpsSteps.ipynb"
+fileName = "03_01_DLFunds.ipynb"
 liste = ["Cevaplar","Arzu","Ersel","Ozkan","Atıf","Omer","Yusuf",\
     "Beytullah","Mehmet","İhsan","OmerReal","Beste","Şafak","Kubra","Hatice","YunusEmre","Berkay","Muhammed","Harun"]
 for item in liste:
@@ -11,10 +11,10 @@ for item in liste:
         os.mkdir(folderPath)
     if not os.path.exists(os.path.join(folderPath,"data")):
         os.mkdir(os.path.join(folderPath,"data"))
-    srcPath = "/workspace/DeepLearningFundamentals/Dokumanlar/02_MachineLearning/01_MLFundamentals.ipynb"
-    destPath = fr"/workspace/DeepLearningFundamentals/Egzersiz/{item}/{fileName}"
-    shutil.copy(srcPath,destPath)
-    # open(os.path.join(folderPath,fileName),"w+")
+    # srcPath = "/workspace/DeepLearningFundamentals/Dokumanlar/02_MachineLearning/01_MLFundamentals.ipynb"
+    # destPath = fr"/workspace/DeepLearningFundamentals/Egzersiz/{item}/{fileName}"
+    # shutil.copy(srcPath,destPath)
+    open(os.path.join(folderPath,fileName),"w+")
 
 """
 /workspace/DeepLearningFundamentals/Datasets/50_Startups.csv
