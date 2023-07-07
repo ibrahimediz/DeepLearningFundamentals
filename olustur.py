@@ -2,7 +2,7 @@ import os
 import shutil
 
 # os.mkdir("Egzersiz")
-fileName = "03_02_DLClass.ipynb"
+fileName = "03_03_MultiClass.ipynb"
 liste = ["Cevaplar","Arzu","Ersel","Ozkan","Atıf","Omer","Yusuf",\
     "Beytullah","Mehmet","İhsan","OmerReal","Beste","Şafak","Kubra","Hatice","YunusEmre","Berkay","Muhammed","Harun"]
 for item in liste:
@@ -11,8 +11,8 @@ for item in liste:
         os.mkdir(folderPath)
     if not os.path.exists(os.path.join(folderPath,"data")):
         os.mkdir(os.path.join(folderPath,"data"))
-    srcPath = "/workspace/DeepLearningFundamentals/Dokumanlar/03_DeepLearning/data/banknotes.csv"
-    destPath = fr"/workspace/DeepLearningFundamentals/Egzersiz/{item}/data/banknotes.csv"
+    srcPath = "/workspace/DeepLearningFundamentals/Dokumanlar/03_DeepLearning/data/darts.csv"
+    destPath = fr"/workspace/DeepLearningFundamentals/Egzersiz/{item}/data/darts.csv"
     shutil.copy(srcPath,destPath)
     open(os.path.join(folderPath,fileName),"w+")
 
